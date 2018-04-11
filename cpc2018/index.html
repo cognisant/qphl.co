@@ -51,7 +51,7 @@
         form {
             margin: 3rem 0 0;
         }
-        input, textarea {
+        input, textarea, select {
             background-color: #FFF;
             border: 2px solid #E0E0E0;
             color: #212121;
@@ -62,8 +62,13 @@
             padding: 0.75rem;
             width: 100%;
         }
-        input:focus, textarea:focus {
+        input:focus, textarea:focus, select:focus {
             outline: 2px solid #00A3E0;
+        }
+        select {
+            border-radius: 0;
+            height: 3rem;
+            width: 20rem;
         }
         label {
             display: block;
@@ -155,12 +160,12 @@
             <option value="Pharmaxo">Pharmaxo only</option>
         </select>
         <label for="00ND0000006Nrag">Would you like to enrol for our Continuous Professional Development (CPD) course?</label>
-        <select  id="00ND0000006Nrag" name="00ND0000006Nrag" title="Enrol for CPD?">
+        <select id="00ND0000006Nrag" name="00ND0000006Nrag" title="Enrol for CPD?">
             <option value="No" default>No</option>
             <option value="Yes">Yes</option>
         </select>
         <label for="00ND0000006Nrav">Who did you speak to today?</label>
-        <select  id="00ND0000006Nrav" name="00ND0000006Nrav" title="Rep Spoken To?">
+        <select id="00ND0000006Nrav" name="00ND0000006Nrav" title="Rep Spoken To?">
             <option value="">Select a name&hellip;</option>
             <option value="Alison Davis">Alison Davis</option>
             <option value="Caroline Munday">Caroline Munday</option>
@@ -173,7 +178,7 @@
             <option value="Suzanna Ward">Suzanna Ward</option>
         </select>
         <label for="description">Message</label>
-        <textarea name="description"></textarea>
+        <textarea id="description" name="description"></textarea>
         <p class="smallprint">By sending your details to QPHL you agree etiam porta sem malesuada magna mollis euismod. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.</p>
         <button type="submit">Send to QPHL</button>
         <p class="smallprint">* required fields are marked with an asterisk<p>
