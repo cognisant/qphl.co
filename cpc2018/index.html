@@ -25,28 +25,17 @@
             line-height: 1.5rem;
             margin: 1.5rem;
         }
-        ul {
-            align-items: center;
-            display: flex;
-            flex-direction: column;
-            flex-wrap: wrap;
-            justify-content: center;
-            list-style: none;
-            margin: 0;
-            padding: 0;
+        .logos {
+            margin: 4.5rem 0 0 !important;
+            text-align: center;
         }
-        li img {
-            width: calc(100vw - 3rem);
+        .logos img {
+            max-width: 45rem;
+            width: 50vw;
         }
         @media (min-width: 1024px) {
             body {
                 margin: 6rem;
-            }
-            ul {
-                flex-direction: row;
-            }
-            li img {
-                width: calc(50vw - 6rem);
             }
         }
         .form-container {
@@ -58,7 +47,7 @@
             color: #212121;
             font-size: 2.25rem;
             line-height: 3rem;
-            margin: 6rem 0 3rem;
+            margin: 3rem 0;
             text-align: center;
         }
         p {
@@ -130,10 +119,7 @@
     </script>
 </head>
 <body>
-    <ul>
-        <li><a href="https://bathasu.com"><img src="../bathasu-logo.png" alt="Bath ASU logo"></a></li>
-        <li><a href="https://pharmaxo.com"><img src="../pharmaxo-logo.png" alt="Pharmaxo logo"></a></li>
-    </ul>
+    <h1 class="logos"><img src="../bathasu-pharmaxo.svg" alt="Bath ASU and Pharmaxo logos"></h1>
     <div class="form-container">
         <h1>Clinical Pharmacy Congress 2018</h1>
         <p>Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Donec id elit non mi porta gravida at eget metus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
