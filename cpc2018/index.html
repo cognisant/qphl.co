@@ -56,10 +56,10 @@
         form {
             margin: 3rem 0 0;
         }
-        input, textarea {
+        input[type=text], input[type=email], input[type=tel], textarea {
             -webkit-appearance: none;
         }
-        input, textarea, select {
+        input[type=text], input[type=email], input[type=tel], textarea, select {
             background-color: #FFF;
             border: 2px solid #E0E0E0;
             color: #212121;
@@ -70,7 +70,7 @@
             padding: 0.75rem;
             width: 100%;
         }
-        input:focus, textarea:focus, select:focus {
+        input[type=text]:focus, input[type=email]:focus, input[type=tel]:focus, textarea:focus, select:focus {
             outline: 2px solid #00A3E0;
         }
         select {
@@ -126,20 +126,23 @@
         <form action="https://webto.salesforce.com/servlet/servlet.WebToLead?encoding=UTF-8" method="POST">
             <input type=hidden name="oid" value="00D20000000KDYy">
             <input type=hidden name="retURL" value="https://qphl.co/cpc2018/success">
-            <label for="first_name">First name*</label>
-            <input id="first_name" name="first_name" type="text" required />
-            <label for="last_name">Last name*</label>
+            <label for="first_name">First Name*</label>
+            <input id="first_name" name="first_name" type="text" autofocus required />
+            <label for="last_name">Last Name*</label>
             <input id="last_name" name="last_name" type="text" required />
-            <label for="email">Email address*</label>
+            <label for="email">Email*</label>
             <input id="email" name="email" type="email" required />
             <label for="phone">Telephone number</label>
             <input id="phone" name="phone" type="tel" />
+            <label for="00ND0000002nywp"><input id="00ND0000002nywp" name="00ND0000002nywp" type="checkbox" value="1" /> I’d like to be contacted by email</label>
+            <label for="00ND0000002nywu"><input id="00ND0000002nywu" name="00ND0000002nywu" type="checkbox" value="1" /> I’d like to be contacted by phone</label>
+            <label for="00ND0000006Nu9O"><input id="00ND0000006Nu9O" name="00ND0000006Nu9O" type="checkbox" value="1" /> I’d like to be contacted by SMS</label>
             <label for="title">Job title</label>
             <input id="title" name="title" type="text" />
             <label for="company">Company</label>
             <input id="company" name="company" type="text" />
             <label for="00ND0000006Nrab">Which company are you interested in?</label>
-            <select  id="00ND0000006Nrab" name="00ND0000006Nrab" title="Interested in?">
+            <select id="00ND0000006Nrab" name="00ND0000006Nrab" title="Interested in?">
                 <option value="Both" default>Bath ASU and Pharmaxo</option>
                 <option value="Bath ASU">Bath ASU only</option>
                 <option value="Pharmaxo">Pharmaxo only</option>
@@ -164,11 +167,24 @@
             </select>
             <label for="description">Message</label>
             <textarea id="description" name="description"></textarea>
+            <label for=""><input id="00ND0000002nyy2" name="00ND0000002nyy2" type="checkbox" value="1" required /> I consent to Bath ASU and Pharmaxo holding my personal information*</label>
+            <p class="smallprint">Bath ASU and Pharmaxo will not share your details with any other parties unless it is required to do so by law. Please check the Bath ASU and Pharmaxo privacy policy to see how we manage and protect your submitted data.</p>
             <button type="submit">Send to QPHL</button>
             <p class="smallprint">* required fields are marked with an asterisk</p>
-            <p class="smallprint">By sending your details to QPHL you agree to us storing and using your information. QPHL is the brand name of a group of companies that includes Qualasept Ltd t/a Bath ASU, a company registered in England number 05548345 whose registered address is A15 Fiveways Light Industrial Estate, Westwells Road, Corsham, Wiltshire (“Bath ASU”), and Pharmaxo Pharmacy Services Limited, a company registered in England with number 06982573 whose registered address is A15 Fiveways Light Industrial Estate, Westwells Road, Corsham, Wiltshire, SN13 9RG (“Pharmaxo”). As a group, QPHL is committed to ensuring that your privacy is protected. We will only use it in accordance with this privacy policy.  To access our privacy policy, contact us at our registered address at Unit A15, Fiveways Light Industrial Estate, West Wells Road, Corsham, Wiltshire, SN13 9RG.</p>
-            <p class="smallprint">To opt out at any time please email <strong>marketing@qphl.co</strong> or write to us at our registered address.</p>
+            <p class="smallprint">By sending your details to QPHL you agree to them storing and using your information. QPHL is the brand name of a group of companies that includes Qualasept Ltd t/a Bath ASU, a company registered in England number 05548345 whose registered address is A15 Fiveways Light Industrial Estate, Westwells Road, Corsham, Wiltshire, SN13 9RG (“Bath ASU”), and Pharmaxo Pharmacy Services Limited, a company registered in England with number 06982573 whose registered address is A15 Fiveways Light Industrial Estate, Westwells Road, Corsham, Wiltshire, SN13 9RG (“Pharmaxo”). As a group, QPHL is committed to ensuring that your privacy is protected. They will only use it in accordance with this privacy policy. To access our privacy policy contact QPHL at their registered address, A15, Fiveways Light Industrial Estate, Westwells Road, Corsham, Wiltshire, SN13 9RG.</p>
+            <p class="smallprint">To opt out at any time, please email marketing@qphl.co or write to QPHL’s registered address.</p>
         </form>
+
+
+
+
+
+
+
+
+
+
+
     </div>
 </body>
 </html>
