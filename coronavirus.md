@@ -8,8 +8,6 @@ Last updated date: 11 March 2020
 
 ## Internal communications
 
-- [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
-- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>PDF, 4 March 2020</small>
 - [Take-home pack information & staff FAQ](/downloads/take-home-pack-information.pdf) <small>PDF, 4 March 2020</small>
 - [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>PDF, 4 March 2020</small>
@@ -17,8 +15,12 @@ Last updated date: 11 March 2020
 - [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>PDF, 4 March 2020</small>
 - [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>PDF, 10 March 2020</small>
 
+## Relevant company policies
 
-## Trusted external resources
+- [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
+- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
+
+## Advice from official sources
 
 - [What to do if you think you might have coronavirus – NHS 111 tool](https://111.nhs.uk/service/COVID-19/)
 - [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
