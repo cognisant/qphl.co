@@ -8,13 +8,15 @@ Last updated date: 11 March 2020
 
 ## Internal communications
 
+- [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
+- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>PDF, 4 March 2020</small>
 - [Take-home pack information & staff FAQ](/downloads/take-home-pack-information.pdf) <small>PDF, 4 March 2020</small>
 - [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>PDF, 4 March 2020</small>
 - [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>PDF, 4 March 2020</small>
 - [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>PDF, 4 March 2020</small>
-- [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
-- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
+- [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>PDF, 10 March 2020</small>
+
 
 ## Trusted external resources
 
