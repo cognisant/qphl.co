@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /cpc2018/
+Disallow: /bopa2018/
+Disallow: /ncha2019/
