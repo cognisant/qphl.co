@@ -40,3 +40,21 @@ title: QPHL Coronavirus and COVID-19 information for employees
 - [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>PDF, 4 March 2020</small>
 - [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>PDF, 4 March 2020</small>
 - [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>PDF, 4 March 2020</small>
+
+## Saving this page on your phone for quick reference
+
+Instructions for iPhone users:
+
+1. Open Safari. Other browsers, such as Chrome, won’t work for this.
+2. Go to https://qphl.co/coronavirus.  
+3. Tap the Share button at the bottom of the page. It looks like a square with an arrow pointing out of the top.
+4. In the list of options that appears, scroll down until you see Add to Home Screen. Tap this.
+5. On the next screen, choose a name for the website shortcut on your home screen. You’ll see the link so you can confirm it, as well as the site’s favicon that becomes its “app” icon. Click Add when you’re done.
+6. Now just tap the new app on your home screen, and it will open the website in its own navigation window, independent of what you have open in Safari.
+
+Instructions for Android users:
+
+1. Launch Chrome for Android, other browsers won’t work for this.
+2. Go to https://qphl.co/coronavirus.  
+3. Tap the menu button and then tap “Add to home screen.”
+4. You’ll then be able to enter a name for the shortcut and then Chrome will add it to your home screen.
