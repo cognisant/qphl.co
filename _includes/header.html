@@ -6,6 +6,7 @@
     <title>{{ page.title }}</title>
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
     <meta name="apple-mobile-web-app-capable" content="yes">
+    {% if page.title contains "Coronavirus" %}<meta name="apple-mobile-web-app-title" content="COVID-19 Info">{% endif %}
     <style>
         @font-face {
             font-display: swap;
