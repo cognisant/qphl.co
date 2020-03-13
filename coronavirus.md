@@ -4,7 +4,7 @@ permalink: /coronavirus/
 title: QPHL Coronavirus and COVID-19 information for employees
 ---
 
-<small>Last updated date: 13 March 2020</small>
+<small>Last updated date: Friday 13 March 2020</small>
 
 ## Company communications
 
