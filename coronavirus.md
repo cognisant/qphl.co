@@ -32,7 +32,6 @@ title: QPHL Coronavirus and COVID-19 information for employees
 
 - [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf)
 - [Overview of local and global situation, updated daily case numbers](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)
-- [Coronavirus (COVID-19): number of cases in England by local authority](https://www.gov.uk/government/publications/coronavirus-covid-19-number-of-cases-in-england/coronavirus-covid-19-number-of-cases-in-england)
 
 ### Public Health England
 
