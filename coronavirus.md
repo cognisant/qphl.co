@@ -14,7 +14,7 @@ title: QPHL Coronavirus and COVID-19 information for employees
 
 ## Relevant company policies and guidance
 
-- [QPHL Coronavirus plan](/documents/qphl-coronavirus-plan.pdf) <small>PDF, 13 March 2020</small>
+- [QPHL Coronavirus plan](/downloads/qphl-coronavirus-plan.pdf) <small>PDF, 13 March 2020</small>
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
 - [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
 - [GOV.UK country specific advice for returning travellers/visitors from overseas](https://www.gov.uk/government/publications/covid-19-specified-countries-and-areas/covid-19-specified-countries-and-areas-with-implications-for-returning-travellers-or-visitors-arriving-in-the-uk)
