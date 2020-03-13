@@ -12,14 +12,12 @@ title: QPHL Coronavirus and COVID-19 information for employees
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>PDF, 4 March 2020</small>
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>PDF, 4 March 2020</small>
 
-
 ## Relevant company policies and guidance
 
-- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
+- [QPHL Coronavirus plan](/documents/qphl-coronavirus-plan.pdf) <small>PDF, 13 March 2020</small>
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
-- **QPHL Coronavirus plan** <small>Coming soon</small>
+- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
 - [GOV.UK country specific advice for returning travellers/visitors from overseas](https://www.gov.uk/government/publications/covid-19-specified-countries-and-areas/covid-19-specified-countries-and-areas-with-implications-for-returning-travellers-or-visitors-arriving-in-the-uk)
-
 
 ## Advice from official sources
 
@@ -27,7 +25,6 @@ title: QPHL Coronavirus and COVID-19 information for employees
 - [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 - [Public Health England coronavirus (COVID-19): what you need to know](https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/)
 - [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>PDF, 10 March 2020</small>
-
 
 ## Other trusted sources of interest
 
@@ -42,7 +39,6 @@ title: QPHL Coronavirus and COVID-19 information for employees
 - [Public information resource](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/resources)
 - [Track coronavirus cases (desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
 - [Track coronavirus cases (mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae)
-
 
 ## Resources and posters
 
