@@ -4,13 +4,14 @@ permalink: /coronavirus/
 title: QPHL Coronavirus and COVID-19 information for employees
 ---
 
-<small>Last updated date: 11 March 2020</small>
+<small>Last updated date: 13 March 2020</small>
 
 ## Company communications
 
+- [COVID-19 self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>PDF, 13 March 2020</small>
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>PDF, 4 March 2020</small>
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>PDF, 4 March 2020</small>
-- [COVID-19 self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>PDF, 13 March 2020</small>
+
 
 ## Relevant company policies and guidance
 
@@ -30,11 +31,18 @@ title: QPHL Coronavirus and COVID-19 information for employees
 
 ## Other trusted sources of interest
 
+### GOV.UK
+
 - [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf)
-- [Public Health England public information resource](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/resources)
-- [GOV.UK overview of local and global situation, updated daily case numbers](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)
-- [Public Health England total UK cases COVID-19 map](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
-- [GOV.UK coronavirus (COVID-19): number of cases in England by local authority](https://www.gov.uk/government/publications/coronavirus-covid-19-number-of-cases-in-england/coronavirus-covid-19-number-of-cases-in-england)
+- [Overview of local and global situation, updated daily case numbers](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)
+- [Coronavirus (COVID-19): number of cases in England by local authority](https://www.gov.uk/government/publications/coronavirus-covid-19-number-of-cases-in-england/coronavirus-covid-19-number-of-cases-in-england)
+
+### Public Health England
+
+- [Public information resource](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/resources)
+- [Track coronavirus cases (desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
+- [Track coronavirus cases (mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae)
+
 
 ## Resources and posters
 
