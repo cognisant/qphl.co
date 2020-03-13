@@ -9,7 +9,8 @@ title: QPHL Coronavirus and COVID-19 information for employees
 ## Company communications
 
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>PDF, 4 March 2020</small>
-- [Take-home pack information & staff FAQ](/downloads/take-home-pack-information.pdf) <small>PDF, 4 March 2020</small>
+- [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>PDF, 4 March 2020</small>
+- [COVID-19 self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>PDF, 13 March 2020</small>
 
 ## Relevant company policies and guidance
 
