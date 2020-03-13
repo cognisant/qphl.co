@@ -12,13 +12,13 @@ featured-image-alt-text: Title card
 
 ## Company communications
 
-- [COVID-19 self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>PDF, 13 March 2020</small>
-- [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>PDF, 4 March 2020</small>
+- [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>PDF, 13 March 2020</small>
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>PDF, 4 March 2020</small>
+- [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>PDF, 4 March 2020</small>
 
 ## Relevant company policies and guidance
 
-- [QPHL Coronavirus plan](/downloads/qphl-coronavirus-plan.pdf) <small>PDF, 13 March 2020</small>
+- [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan.pdf) <small>PDF, 13 March 2020</small>
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
 - [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
 
