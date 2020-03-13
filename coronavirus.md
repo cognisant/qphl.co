@@ -24,7 +24,7 @@ featured-image-alt-text: Title card
 
 ## Advice from official sources
 
-- [What to do if you think you might have coronavirus – NHS 111 tool](https://111.nhs.uk/service/COVID-19/)
+- [Find out what to do if you think you have symptoms](https://111.nhs.uk/service/COVID-19/)
 - [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 - [Public Health England coronavirus (COVID-19): what you need to know](https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/)
 - [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>PDF, 10 March 2020</small>
@@ -34,8 +34,8 @@ featured-image-alt-text: Title card
 ### GOV.UK
 
 - [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf)
-- [Overview of local and global situation, updated daily case numbers](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)
-- [COVID-19:stay at home guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance)
+- [Number of coronavirus (COVID-19) cases and risk in the UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)
+- [COVID-19: stay at home guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance)
 
 ### Public Health England
 
