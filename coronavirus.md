@@ -21,7 +21,6 @@ featured-image-alt-text: Title card
 - [QPHL Coronavirus plan](/downloads/qphl-coronavirus-plan.pdf) <small>PDF, 13 March 2020</small>
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
 - [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
-- [GOV.UK country specific advice for returning travellers/visitors from overseas](https://www.gov.uk/government/publications/covid-19-specified-countries-and-areas/covid-19-specified-countries-and-areas-with-implications-for-returning-travellers-or-visitors-arriving-in-the-uk)
 
 ## Advice from official sources
 
@@ -36,6 +35,7 @@ featured-image-alt-text: Title card
 
 - [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf)
 - [Overview of local and global situation, updated daily case numbers](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)
+- [COVID-19:stay at home guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance)
 
 ### Public Health England
 
