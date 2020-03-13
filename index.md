@@ -1,6 +1,10 @@
 ---
 layout: default
 title: QPHL
+app-title: QPHL
+description: Qualasept Pharmaxo Holdings is the holding company for Bath ASU, Pharmaxo, Microgenetics and Corsham Science.
+featured-image: /images/qphl-og.png
+featured-image-alt-text: Title card
 ---
 
 Qualasept Pharmaxo Holdings Limited (QPHL) is the holding company for [Bath ASU](https://bathasu.com), [Pharmaxo](https://pharmaxo.com), [Microgenetics](https://microgenetics.co.uk) and [Corsham Science](https://corshamscience.com). We are an aseptic compounder and high-tech homecare provider supporting the NHS nationwide, and [proud winners](https://bathasu.com/press/bath-asu-receives-prestigious-queens-award-for-enterprise-in-innovation/) of a Queen’s Award for Enterprise in Innovation for 2019.

@@ -1,13 +1,28 @@
 <!DOCTYPE html>
-<html lang="en-gb">
+<html lang="en-gb" prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="utf-8">
     <meta content="initial-scale=1, width=device-width" name="viewport">
     <title>{{ page.title }}</title>
-    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    {% if page.app-title %}
+    <meta name="apple-mobile-web-app-title" content="{{ page.app-title }}">
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="translucent">
-    {% if page.title contains "Coronavirus" %}<meta name="apple-mobile-web-app-title" content="Coronavirus Info">{% endif %}
+    {% endif %}
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png">
+    <link href="/favicon.ico" rel="shortcut icon">
+    <link href="/favicon.png" rel="shortcut icon" type="image/png">
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon">
+    <meta content="{% if page.description %}{{ page.description }}{% else %}{{ site.description }}{% endif %}" name="description">
+    <meta content="QPHL" name="author">
+    <meta content="#1976D2" name="theme-color">
+    <meta content="summary_large_image" name="twitter:card">
+    <meta content="{{ page.title }}" property="og:title">
+    <meta content="{{ page.description }}" property="og:description">
+    <meta content="website" property="og:type">
+    <meta content="{{ site.baseurl }}{{ page.url }}" property="og:url">
+    <meta content="{{ page.featured-image }}" property="og:image">
+    <meta content="{{ page.featured-image-alt-text }}" property="og:image:alt">
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=

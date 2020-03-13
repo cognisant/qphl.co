@@ -2,6 +2,10 @@
 layout: default
 permalink: /coronavirus/
 title: QPHL Coronavirus and COVID-19 information for employees
+app-title: Coronavirus Info
+description: The latest information about coronavirus and COVID-19 for employees, including company communications, policies and useful links.
+featured-image: /images/coronavirus-og.png
+featured-image-alt-text: Title card
 ---
 
 <small>Last updated date: Friday 13 March 2020</small>
