@@ -26,7 +26,7 @@ featured-image-alt-text: Title card
 
 - [Find out what to do if you think you have symptoms](https://111.nhs.uk/service/COVID-19/)
 - [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
-- [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>PDF, 10 March 2020</small>
+- [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>10 March 2020 (143KB PDF)</small>
 - [Public Health England coronavirus (COVID-19): what you need to know](https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/) <small>23 January 2020</small>
 
 ## Latest guidance from GOV.UK
