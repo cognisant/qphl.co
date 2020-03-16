@@ -37,7 +37,7 @@ featured-image-alt-text: Title card
 
 ## Public Health England
 
-- [Public information resource](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/resources)
+- [Coronavirus (COVID-19) campaign resource centre](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/)
 - [Track coronavirus cases (desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) <small>Updated daily</small>
 - [Track coronavirus cases (mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae) <small>Updated daily</small>
 
