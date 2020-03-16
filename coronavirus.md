@@ -22,30 +22,31 @@ featured-image-alt-text: Title card
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
 - [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>1 March 2020 (316KB PDF)</small>
 
-## Advice from official sources
-
-- [Find out what to do if you think you have symptoms](https://111.nhs.uk/service/COVID-19/)
-- [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
-- [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>10 March 2020 (143KB PDF)</small>
-- [Public Health England coronavirus (COVID-19): what you need to know](https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/) <small>23 January 2020</small>
-
 ## Latest guidance from GOV.UK
 
 - [Number of coronavirus (COVID-19) cases and risk in the UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public) <small>Updated daily</small>
 - [COVID-19: stay at home guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance) <small>12 March 2020</small>
 - [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf) <small>3 March 2020</small>
 
+## NHS
+
+- [Find out what to do if you think you have symptoms](https://111.nhs.uk/service/COVID-19/)
+- [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
+
 ## Public Health England
 
-- [Coronavirus (COVID-19) campaign resource centre](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/)
 - [Track coronavirus cases (desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) <small>Updated daily</small>
 - [Track coronavirus cases (mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae) <small>Updated daily</small>
+- [Coronavirus (COVID-19): what you need to know](https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/) <small>Updated 15 March 2020</small>
+- [Coronavirus (COVID-19) campaign resource centre](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/)
 
 ## Resources and posters
 
+- [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>10 March 2020 (143KB PDF)</small>
 - [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>4 March 2020 (939KB PDF)</small>
 - [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>4 March 2020 (956KB PDF)</small>
 - [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>4 March 2020 (1.2MB PDF)</small>
+
 
 ---
 
