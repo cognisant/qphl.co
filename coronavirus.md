@@ -8,7 +8,7 @@ featured-image: /images/coronavirus-og.png
 featured-image-alt-text: Title card
 ---
 
-<small>Last updated date: Monday 16 March 2020</small>
+<small>Last updated Monday 16 March 2020</small>
 
 ## Company communications
 
