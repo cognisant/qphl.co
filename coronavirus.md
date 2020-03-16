@@ -8,19 +8,19 @@ featured-image: /images/coronavirus-og.png
 featured-image-alt-text: Title card
 ---
 
-<small>Last updated date: Friday 13 March 2020</small>
+<small>Last updated date: Monday 16 March 2020</small>
 
 ## Company communications
 
-- [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>PDF, 13 March 2020</small>
-- [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>PDF, 4 March 2020</small>
-- [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>PDF, 4 March 2020</small>
+- [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>13 March 2020 (171KB PDF)</small>
+- [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>4 March 2020 (305KB PDF)</small>
+- [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>4 March 2020 (112KB PDF)</small>
 
 ## Relevant company policies and guidance
 
-- [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan.pdf) <small>PDF, 13 March 2020</small>
-- [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>PDF, 9 March 2020</small>
-- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>PDF, 1 March 2020</small>
+- [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan.pdf) <small>13 March 2020 (184KB PDF)</small>
+- [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
+- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>1 March 2020 (316KB PDF)</small>
 
 ## Advice from official sources
 
@@ -43,9 +43,9 @@ featured-image-alt-text: Title card
 
 ## Resources and posters
 
-- [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>PDF, 4 March 2020</small>
-- [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>PDF, 4 March 2020</small>
-- [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>PDF, 4 March 2020</small>
+- [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>4 March 2020 (939KB PDF)</small>
+- [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>4 March 2020 (956KB PDF)</small>
+- [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>4 March 2020 (1.2MB PDF)</small>
 
 ---
 
