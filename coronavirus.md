@@ -29,15 +29,13 @@ featured-image-alt-text: Title card
 - [Public Health England coronavirus (COVID-19): what you need to know](https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/)
 - [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>PDF, 10 March 2020</small>
 
-## Other trusted sources of interest
+## Latest guidance from GOV.UK
 
-### GOV.UK
-
-- [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf)
 - [Number of coronavirus (COVID-19) cases and risk in the UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public)
+- [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf)
 - [COVID-19: stay at home guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance)
 
-### Public Health England
+## Public Health England
 
 - [Public information resource](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/resources)
 - [Track coronavirus cases (desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14)
