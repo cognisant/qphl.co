@@ -26,7 +26,7 @@ featured-image-alt-text: Title card
 ## Latest guidance from GOV.UK
 
 - [Number of coronavirus (COVID-19) cases and risk in the UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public) <small>Updated daily</small>
-- [COVID-19: guidance for households with possible coronavirus infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance) <small>12 March 2020</small>
+- [COVID-19: guidance for households with possible coronavirus infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance) <small>16 March 2020</small>
 - [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf) <small>3 March 2020</small>
 
 ## NHS
