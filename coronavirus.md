@@ -8,7 +8,7 @@ featured-image: /images/coronavirus-og.png
 featured-image-alt-text: Title card
 ---
 
-<small>Last updated Monday 16 March 2020</small>
+<small>Last updated Tuesday 17 March 2020</small>
 
 ## Company communications
 
@@ -19,19 +19,19 @@ featured-image-alt-text: Title card
 
 ## Relevant company policies and guidance
 
-- [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan.pdf) <small>13 March 2020 (184KB PDF)</small>
+- [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (184KB PDF)</small>
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
 - [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>1 March 2020 (316KB PDF)</small>
 
 ## Latest guidance from GOV.UK
 
 - [Number of coronavirus (COVID-19) cases and risk in the UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public) <small>Updated daily</small>
-- [COVID-19: stay at home guidance](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance) <small>12 March 2020</small>
+- [COVID-19: guidance for households with possible coronavirus infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance) <small>12 March 2020</small>
 - [Government coronavirus action plan](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/869827/Coronavirus_action_plan_-_a_guide_to_what_you_can_expect_across_the_UK.pdf) <small>3 March 2020</small>
 
 ## NHS
 
-- [Find out what to do if you think you have symptoms](https://111.nhs.uk/service/COVID-19/)
+- [About coronavirus (COVID-19) & NHS 111 online assessment](https://111.nhs.uk/service/COVID-19/)
 - [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 
 ## Public Health England
