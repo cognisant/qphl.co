@@ -19,7 +19,7 @@ featured-image-alt-text: Title card
 
 ## Relevant company policies and guidance
 
-- [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (184KB PDF)</small>
+- [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (185KB PDF)</small>
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
 - [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>1 March 2020 (316KB PDF)</small>
 
