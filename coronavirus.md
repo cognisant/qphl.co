@@ -12,7 +12,7 @@ featured-image-alt-text: Title card
 
 ## Company communications
 
-- [Employee caring responsibilities form](bit.ly/qphlcare) <small>17 March 2020</small>
+- [Employee caring responsibilities form](https://bit.ly/qphlcare) <small>17 March 2020</small>
 - [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>13 March 2020 (171KB PDF)</small>
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>4 March 2020 (305KB PDF)</small>
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>4 March 2020 (112KB PDF)</small>
