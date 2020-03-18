@@ -8,10 +8,11 @@ featured-image: /images/coronavirus-og.png
 featured-image-alt-text: Title card
 ---
 
-<small>Last updated Tuesday 17 March 2020</small>
+<small>Last updated Tuesday 18 March 2020</small>
 
 ## Company communications
 
+- [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small>18 March 2020</small>
 - [Employee caring responsibilities form](https://bit.ly/qphlcare) <small>17 March 2020</small>
 - [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>13 March 2020 (171KB PDF)</small>
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>4 March 2020 (305KB PDF)</small>
