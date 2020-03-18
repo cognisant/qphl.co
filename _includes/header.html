@@ -145,6 +145,15 @@
         .grid img {
             max-width: 100%;
         }
+        {% if page.layout == "email" %}
+            p, ul {
+                margin: 0 auto 1.5rem;
+            }
+            ul {
+                list-style: disc;
+                padding: 0 0 0 1.5rem;
+            }
+        {% endif %}
     </style>
 </head>
 <body>

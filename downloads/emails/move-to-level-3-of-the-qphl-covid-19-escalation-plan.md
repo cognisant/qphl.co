@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: email
 permalink: /downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/
 title: Move to Level 3 of the QPHL COVID-19 escalation plan
 ---
@@ -10,7 +10,7 @@ The Executive team have today moved the company from Level 2 to Level 3 of our Q
 
 For those interested, we are using the Public Health England official data on reported cases, our own QPHL experience and Central Government Guidance which as I am sure you are all aware changed yesterday and we expect to evolve further. The exact details of the new actions to be taken are listed in the plan which is displayed in each café and is available at the link below.
 
-https://qphl.co/coronavirus/
+[qphl.co/coronavirus](https://qphl.co/coronavirus)
 
 These changes are an essential part of ensuring we can continue with the best possible service to the NHS at this challenging time. Our whole community needs the NHS right now and we are part of that.  
 
