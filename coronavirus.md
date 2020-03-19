@@ -8,7 +8,7 @@ featured-image: /images/coronavirus-og.png
 featured-image-alt-text: Title card
 ---
 
-<small>Last updated {{ "now" | date: "%A %e %B %Y }}</small>
+<small>Last updated {{ "now" | date: "%A %e %B %Y" }}</small>
 
 ## Company communications
 
