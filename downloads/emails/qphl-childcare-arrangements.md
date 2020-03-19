@@ -14,7 +14,7 @@ As we are a critical healthcare provider and therefore you are key workers, scho
 
 For those parents that will still struggle for childcare, as part of “Our commitment to you”, we will be providing free childcare on site in Unit 7 Corsham Science Park (the new Microgenetics offices) from Monday 24th March.
 
-Attached is more information and a form we would need you to fill in Can you please complete this and send back to hr@qphl.co as soon as possible.
+Attached is more information and a form we would need you to fill in Can you please complete this and send back to [hr@qphl.co](mailto:hr@qphl.co) as soon as possible.
 
 Thank you for your continued commitment.
 
