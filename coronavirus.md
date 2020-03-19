@@ -41,7 +41,7 @@ featured-image-alt-text: Title card
 - [Track coronavirus cases (desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) <small>Updated daily</small>
 - [Track coronavirus cases (mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae) <small>Updated daily</small>
 - [Coronavirus (COVID-19): what you need to know](https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/) <small>Updated 18 March 2020</small>
-- [Coronavirus (COVID-19) campaign resource centre](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/)
+- [Coronavirus (COVID-19): campaign resource centre](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/)
 
 ## Resources and posters
 
