@@ -50,7 +50,6 @@ featured-image-alt-text: Title card
 - [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>4 March 2020 (956KB PDF)</small>
 - [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>4 March 2020 (1.2MB PDF)</small>
 
-
 ---
 
 ## Saving this page on your phone for quick reference
