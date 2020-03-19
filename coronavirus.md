@@ -12,14 +12,22 @@ featured-image-alt-text: Title card
 
 ## Company communications
 
-- [Email: QPHL childcare arrangements](/downloads/emails/qphl-childcare-arrangements/) <small>19 march 2020</small>
+### General
+
 - [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small>18 March 2020</small>
 - [Employee caring responsibilities form](https://bit.ly/qphlcare) <small>17 March 2020</small>
 - [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>13 March 2020 (171KB PDF)</small>
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>4 March 2020 (305KB PDF)</small>
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>4 March 2020 (112KB PDF)</small>
 
-## Relevant company policies and guidance
+### Childcare
+
+- [Email: QPHL childcare arrangements](/downloads/emails/qphl-childcare-arrangements/) <small>19 March 2020</small>
+- [QPHL childcare company agreement](/downloads/qphl-childcare-company-agreement.pdf) <small>19 March 2020 (195KB PDF)</small>
+- [Letter to schools from Chris Watt](/downloads/letter-to-schools-from-chris-watt.pdf) <small>19 March 2020 (165KB PDF)</small>
+- [Template: Letter to schools from parents](/downloads/letter-to-schools-from-parents.docx) <small>19 March 2020 (214KB DOCX)</small>
+
+### Relevant company policies and guidance
 
 - [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (185KB PDF)</small>
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
