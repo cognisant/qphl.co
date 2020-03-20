@@ -14,6 +14,8 @@ featured-image-alt-text: Title card
 
 ### General
 
+- [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small>20 March 2020</small>
+- [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small>20 March 2020, 218KB DOCX</small>
 - [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small>18 March 2020</small>
 - [Employee caring responsibilities form](https://bit.ly/qphlcare) <small>17 March 2020</small>
 - [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>13 March 2020 (171KB PDF)</small>
