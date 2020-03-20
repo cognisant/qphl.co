@@ -4,7 +4,7 @@ permalink: /downloads/emails/qphl-childcare-arrangements/
 title: QPHL Childcare arrangements
 ---
 
-<small>16:99 on 19 March 2020</small>
+<small>16:00 on 19 March 2020</small>
 
 Dear employees,
 
