@@ -12,7 +12,7 @@ featured-image-alt-text: Title card
 
 ## General communications
 
-- [Email: Pharmaxo dispensary is open to employees](/downloads/emails/pharmaxo-dispensary-is-open-to-employees/) <small>23 March 2020</small>
+- [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small>23 March 2020</small>
 - [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small>20 March 2020</small>
 - [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small>20 March 2020 (218KB DOCX)</small>
 - [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small>18 March 2020</small>
