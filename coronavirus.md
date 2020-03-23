@@ -10,9 +10,7 @@ featured-image-alt-text: Title card
 
 <small>Last updated {{ "now" | date: "%A %e %B %Y" }}</small>
 
-## Company communications
-
-### General
+## General communications
 
 - [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small>20 March 2020</small>
 - [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small>20 March 2020, 218KB DOCX</small>
@@ -22,14 +20,14 @@ featured-image-alt-text: Title card
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>4 March 2020 (305KB PDF)</small>
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>4 March 2020 (112KB PDF)</small>
 
-### Childcare
+## Childcare arrangements
 
 - [Email: QPHL childcare arrangements](/downloads/emails/qphl-childcare-arrangements/) <small>19 March 2020</small>
 - [QPHL childcare company agreement](/downloads/qphl-childcare-company-agreement.pdf) <small>19 March 2020 (195KB PDF)</small>
 - [Letter to schools from Chris Watt](/downloads/letter-to-schools-from-chris-watt.pdf) <small>19 March 2020 (165KB PDF)</small>
 - [Template: Letter to schools from parents](/downloads/letter-to-schools-from-parents.docx) <small>19 March 2020 (214KB DOCX)</small>
 
-### Relevant company policies and guidance
+## Company policies and guidance
 
 - [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (185KB PDF)</small>
 - [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
