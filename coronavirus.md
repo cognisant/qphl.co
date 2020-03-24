@@ -10,15 +10,6 @@ featured-image-alt-text: Title card
 
 <small>Last updated {{ "now" | date: "%A %e %B %Y" }}</small>
 
-<div class="hero--warning">
-    <p>Key government guidance for three kinds of people:
-    <ul>
-        <li><a href="https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance">Staying at home if you think you have coronavirus (self-isolating)</a></li>
-        <li><a href="https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others">Full guidance on staying at home and away from others</a></li>
-        <li><a href="https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19">How to protect extremely vulnerable people (shielding)</a></li>
-    </ul>
-</div>
-
 ## QPHL policies and guidance
 
 - [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (185KB PDF)</small>
