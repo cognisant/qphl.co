@@ -8,7 +8,7 @@ featured-image: /images/coronavirus-og.png
 featured-image-alt-text: Title card
 ---
 
-<small>Last updated <time datetime={{ "now" | date_to_xmlschema }}>{{ "now" | date: "%A %e %B %Y" }}</time></small>
+<small>Last updated <time datetime="{{ "now" | date_to_xmlschema }}">{{ "now" | date: "%A %e %B %Y" }}</time></small>
 
 {% include gov-info.html %}
 
