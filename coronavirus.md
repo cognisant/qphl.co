@@ -10,6 +10,8 @@ featured-image-alt-text: Title card
 
 <small>Last updated {{ "now" | date: "%A %e %B %Y" }}</small>
 
+{% include gov-info.html %}
+
 ## QPHL policies and guidance
 
 - [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (185KB PDF)</small>
