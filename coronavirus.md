@@ -14,13 +14,13 @@ featured-image-alt-text: Title card
 
 ## QPHL policies and guidance
 
-- [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v5.pdf) <small>24 March 2020 (159KB PDF)</small>
+- [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v5.pdf) <small><time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time> (159KB PDF)</small>
 - [Pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small><time datetime="2020-03-09T12:00:00+00:00">9 March 2020</time> (193KB PDF)</small>
 - [Sickness policy](/downloads/qphl-sickness-policy.pdf) <small><time datetime="2020-03-01T12:00:00+00:00">1 March 2020</time> (316KB PDF)</small>
 
 ## QPHL communications
 
-- [Email: Move to level 4 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/) <small>24 March 2020</small>
+- [Email: Move to level 4 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/) <small><time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time></small>
 - [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small><time datetime="2020-03-23T12:00:00+00:00">23 March 2020</time></small>
 - [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small><time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time></small>
 - [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small><time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time> (218KB DOCX)</small>

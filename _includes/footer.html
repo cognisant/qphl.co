@@ -1,2 +1,14 @@
+<script src="/js/moment.min.js"></script>
+<script>
+    const times = document.querySelectorAll('time');
+
+    times.forEach( time => {
+        var absoluteTime = time.dateTime;
+        console.log(absoluteTime);
+        var relativeTime = moment(absoluteTime).fromNow();
+        console.log(relativeTime);
+        time.innerHTML = relativeTime;
+    });
+</script>
 </body>
 </html>
