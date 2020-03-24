@@ -15,27 +15,27 @@ featured-image-alt-text: Title card
 ## QPHL policies and guidance
 
 - [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v5.pdf) <small>24 March 2020 (159KB PDF)</small>
-- [Pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
-- [Sickness policy](/downloads/qphl-sickness-policy.pdf) <small>1 March 2020 (316KB PDF)</small>
+- [Pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small><time datetime="2020-03-09T12:00:00+00:00">9 March 2020</time> (193KB PDF)</small>
+- [Sickness policy](/downloads/qphl-sickness-policy.pdf) <small><time datetime="2020-03-01T12:00:00+00:00">1 March 2020</time> (316KB PDF)</small>
 
 ## QPHL communications
 
 - [Email: Move to level 4 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/) <small>24 March 2020</small>
-- [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small>23 March 2020</small>
-- [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small>20 March 2020</small>
-- [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small>20 March 2020 (218KB DOCX)</small>
-- [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small>18 March 2020</small>
-- [Employee caring responsibilities form](https://bit.ly/qphlcare) <small>17 March 2020</small>
-- [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>13 March 2020 (171KB PDF)</small>
-- [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>4 March 2020 (305KB PDF)</small>
-- [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>4 March 2020 (112KB PDF)</small>
+- [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small><time datetime="2020-03-23T12:00:00+00:00">23 March 2020</time></small>
+- [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small><time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time></small>
+- [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small><time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time> (218KB DOCX)</small>
+- [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small><time datetime="2020-03-18T12:00:00+00:00">18 March 2020</time></small>
+- [Employee caring responsibilities form](https://bit.ly/qphlcare) <small><time datetime="2020-03-17T12:00:00+00:00">17 March 2020</time></small>
+- [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small><time datetime="2020-03-13T12:00:00+00:00">13 March 2020</time> (171KB PDF)</small>
+- [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (305KB PDF)</small>
+- [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (112KB PDF)</small>
 
 ## QPHL childcare arrangements
 
-- [Email: QPHL childcare arrangements](/downloads/emails/qphl-childcare-arrangements/) <small>19 March 2020</small>
-- [QPHL childcare company agreement](/downloads/qphl-childcare-company-agreement.pdf) <small>19 March 2020 (195KB PDF)</small>
-- [Letter to schools from Chris Watt](/downloads/letter-to-schools-from-chris-watt.pdf) <small>19 March 2020 (165KB PDF)</small>
-- [Template: Letter to schools from parents](/downloads/letter-to-schools-from-parents.docx) <small>19 March 2020 (214KB DOCX)</small>
+- [Email: QPHL childcare arrangements](/downloads/emails/qphl-childcare-arrangements/) <small><time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time></small>
+- [QPHL childcare company agreement](/downloads/qphl-childcare-company-agreement.pdf) <small><time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (195KB PDF)</small>
+- [Letter to schools from Chris Watt](/downloads/letter-to-schools-from-chris-watt.pdf) <small><time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (165KB PDF)</small>
+- [Template: Letter to schools from parents](/downloads/letter-to-schools-from-parents.docx) <small><time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (214KB DOCX)</small>
 
 ## Other useful resources
 
@@ -51,26 +51,32 @@ featured-image-alt-text: Title card
 
 ### Posters
 
-- [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>4 March 2020 (939KB PDF)</small>
-- [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>4 March 2020 (956KB PDF)</small>
-- [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>4 March 2020 (1.2MB PDF)</small>
+- [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (939KB PDF)</small>
+- [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (956KB PDF)</small>
+- [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (1.2MB PDF)</small>
 
 ---
 
 ## Saving this page on your phone for quick reference
 
-### Instructions for iPhone users:
+<details>
+    <summary>Instructions for Android users</summary>
+    <ol>
+        <li>Launch Chrome for Android, other browsers won’t work for this.</li>
+        <li>Go to <a href="https://qphl.co/coronavirus/">qphl.co/coronavirus</a>.</li>
+        <li>Tap the menu button and then tap “Add to home screen.”</li>
+        <li>You’ll then be able to enter a name for the shortcut and then Chrome will add it to your home screen.</li>
+    </ol>
+</details>
 
-1. Open Safari. Other browsers, such as Chrome, won’t work for this.
-2. Go to [qphl.co/coronavirus](https://qphl.co/coronavirus/).
-3. Tap the Share button at the bottom of the page. It looks like a square with an arrow pointing out of the top.
-4. In the list of options that appears, scroll down until you see Add to Home Screen. Tap this.
-5. On the next screen, choose a name for the website shortcut on your home screen. You’ll see the link so you can confirm it, as well as the site’s favicon that becomes its “app” icon. Click Add when you’re done.
-6. Now just tap the new app on your home screen, and it will open the website in its own navigation window, independent of what you have open in Safari.
-
-### Instructions for Android users:
-
-1. Launch Chrome for Android, other browsers won’t work for this.
-2. Go to [qphl.co/coronavirus](https://qphl.co/coronavirus/).
-3. Tap the menu button and then tap “Add to home screen.”
-4. You’ll then be able to enter a name for the shortcut and then Chrome will add it to your home screen.
+<details>
+    <summary>Instructions for iPhone users</summary>
+    <ol>
+        <li>Open Safari. Other browsers, such as Chrome, won’t work for this.</li>
+        <li>Go to <a href="https://qphl.co/coronavirus/">qphl.co/coronavirus</a>.</li>
+        <li>Tap the Share button at the bottom of the page. It looks like a square with an arrow pointing out of the top.</li>
+        <li>In the list of options that appears, scroll down until you see Add to Home Screen. Tap this.</li>
+        <li>On the next screen, choose a name for the website shortcut on your home screen. You’ll see the link so you can confirm it, as well as the site’s favicon that becomes its “app” icon. Click Add when you’re done.</li>
+        <li>Now just tap the new app on your home screen, and it will open the website in its own navigation window, independent of what you have open in Safari.</li>
+    </ol>
+</details>
