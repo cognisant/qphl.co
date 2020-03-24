@@ -8,18 +8,19 @@ featured-image: /images/coronavirus-og.png
 featured-image-alt-text: Title card
 ---
 
-<small>Last updated {{ "now" | date: "%A %e %B %Y" }}</small>
+<small>Last updated <time datetime={{ "now" | date_to_xmlschema }}>{{ "now" | date: "%A %e %B %Y" }}</time></small>
 
 {% include gov-info.html %}
 
 ## QPHL policies and guidance
 
-- [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (185KB PDF)</small>
+- [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v5.pdf) <small>24 March 2020 (159KB PDF)</small>
 - [Pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
 - [Sickness policy](/downloads/qphl-sickness-policy.pdf) <small>1 March 2020 (316KB PDF)</small>
 
 ## QPHL communications
 
+- [Email: Move to level 4 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/) <small>24 March 2020</small>
 - [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small>23 March 2020</small>
 - [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small>20 March 2020</small>
 - [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small>20 March 2020 (218KB DOCX)</small>
