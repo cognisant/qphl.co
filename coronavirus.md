@@ -10,7 +10,22 @@ featured-image-alt-text: Title card
 
 <small>Last updated {{ "now" | date: "%A %e %B %Y" }}</small>
 
-## General communications
+<div class="hero--warning">
+    <p>Key government guidance for three kinds of people:
+    <ul>
+        <li><a href="https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance">Staying at home if you think you have coronavirus (self-isolating)</a></li>
+        <li><a href="https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others">Full guidance on staying at home and away from others</a></li>
+        <li><a href="https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19">How to protect extremely vulnerable people (shielding)</a></li>
+    </ul>
+</div>
+
+## QPHL policies and guidance
+
+- [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (185KB PDF)</small>
+- [Pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
+- [Sickness policy](/downloads/qphl-sickness-policy.pdf) <small>1 March 2020 (316KB PDF)</small>
+
+## QPHL communications
 
 - [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small>23 March 2020</small>
 - [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small>20 March 2020</small>
@@ -21,41 +36,27 @@ featured-image-alt-text: Title card
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>4 March 2020 (305KB PDF)</small>
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>4 March 2020 (112KB PDF)</small>
 
-## Childcare arrangements
+## QPHL childcare arrangements
 
 - [Email: QPHL childcare arrangements](/downloads/emails/qphl-childcare-arrangements/) <small>19 March 2020</small>
 - [QPHL childcare company agreement](/downloads/qphl-childcare-company-agreement.pdf) <small>19 March 2020 (195KB PDF)</small>
 - [Letter to schools from Chris Watt](/downloads/letter-to-schools-from-chris-watt.pdf) <small>19 March 2020 (165KB PDF)</small>
 - [Template: Letter to schools from parents](/downloads/letter-to-schools-from-parents.docx) <small>19 March 2020 (214KB DOCX)</small>
 
-## Company policies and guidance
+## Other useful resources
 
-- [QPHL coronavirus plan](/downloads/qphl-coronavirus-plan-v4.pdf) <small>17 March 2020 (185KB PDF)</small>
-- [QPHL pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>9 March 2020 (193KB PDF)</small>
-- [QPHL sickness policy](/downloads/qphl-sickness-policy.pdf) <small>1 March 2020 (316KB PDF)</small>
-
-## Latest guidance from GOV.UK
-
-- [Number of coronavirus (COVID-19) cases and risk in the UK](https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public) <small>Updated daily</small>
-- [Stay at home: guidance for households with possible coronavirus (COVID-19) infection](https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance/stay-at-home-guidance-for-households-with-possible-coronavirus-covid-19-infection) <small>Updated 20 March 2020</small>
-- [Stay at Home guidance for households: illustration](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/873635/Stay_at_home_guidance_diagram.pdf) <small>17 March 2020 (132KB PDF)</small>
-- [Government coronavirus action plan](https://www.gov.uk/government/publications/coronavirus-action-plan/coronavirus-action-plan-a-guide-to-what-you-can-expect-across-the-uk) <small>3 March 2020</small>
-
-## NHS
+### NHS
 
 - [About coronavirus (COVID-19) & NHS 111 online assessment](https://111.nhs.uk/service/COVID-19/)
 - [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
 
-## Public Health England
+### Public Health England
 
 - [Track coronavirus cases (desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) <small>Updated daily</small>
 - [Track coronavirus cases (mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae) <small>Updated daily</small>
-- [Coronavirus (COVID-19): what you need to know](https://publichealthmatters.blog.gov.uk/2020/01/23/wuhan-novel-coronavirus-what-you-need-to-know/) <small>Updated 21 March 2020</small>
-- [Coronavirus (COVID-19): campaign resource centre](https://campaignresources.phe.gov.uk/resources/campaigns/101-coronavirus-/)
 
-## Resources and posters
+### Posters
 
-- [Advice on coronavirus for people with cancer](/downloads/advice-on-coronavirus-for-people-with-cancer.pdf) <small>10 March 2020 (143KB PDF)</small>
 - [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>4 March 2020 (939KB PDF)</small>
 - [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>4 March 2020 (956KB PDF)</small>
 - [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>4 March 2020 (1.2MB PDF)</small>
