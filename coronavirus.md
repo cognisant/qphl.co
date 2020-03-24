@@ -14,28 +14,28 @@ featured-image-alt-text: Title card
 
 ## QPHL policies and guidance
 
-- [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v5.pdf) <small><time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time> (159KB PDF)</small>
-- [Pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small><time datetime="2020-03-09T12:00:00+00:00">9 March 2020</time> (193KB PDF)</small>
-- [Sickness policy](/downloads/qphl-sickness-policy.pdf) <small><time datetime="2020-03-01T12:00:00+00:00">1 March 2020</time> (316KB PDF)</small>
+- [Current COVID-19 escalation plan](/downloads/qphl-coronavirus-plan-v5.pdf) <small>Updated <time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time> (159KB PDF)</small>
+- [Pandemic policy](/downloads/qphl-pandemic-policy.pdf) <small>Added <time datetime="2020-03-09T12:00:00+00:00">9 March 2020</time> (193KB PDF)</small>
+- [Sickness policy](/downloads/qphl-sickness-policy.pdf) <small>Added <time datetime="2020-03-01T12:00:00+00:00">1 March 2020</time> (316KB PDF)</small>
 
 ## QPHL communications
 
-- [Email: Move to level 4 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/) <small><time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time></small>
-- [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small><time datetime="2020-03-23T12:00:00+00:00">23 March 2020</time></small>
-- [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small><time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time></small>
-- [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small><time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time> (218KB DOCX)</small>
-- [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small><time datetime="2020-03-18T12:00:00+00:00">18 March 2020</time></small>
-- [Employee caring responsibilities form](https://bit.ly/qphlcare) <small><time datetime="2020-03-17T12:00:00+00:00">17 March 2020</time></small>
-- [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small><time datetime="2020-03-13T12:00:00+00:00">13 March 2020</time> (171KB PDF)</small>
-- [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (305KB PDF)</small>
-- [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (112KB PDF)</small>
+- [Email: Move to level 4 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/) <small>Added <time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time></small>
+- [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small>Added <time datetime="2020-03-23T12:00:00+00:00">23 March 2020</time></small>
+- [Email: Potential work for family members](/downloads/emails/potential-work-for-family-members/) <small>Added <time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time></small>
+- [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small>Added <time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time> (218KB DOCX)</small>
+- [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small>Added <time datetime="2020-03-18T12:00:00+00:00">18 March 2020</time></small>
+- [Employee caring responsibilities form](https://bit.ly/qphlcare) <small>Added <time datetime="2020-03-17T12:00:00+00:00">17 March 2020</time></small>
+- [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>Added <time datetime="2020-03-13T12:00:00+00:00">13 March 2020</time> (171KB PDF)</small>
+- [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (305KB PDF)</small>
+- [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (112KB PDF)</small>
 
 ## QPHL childcare arrangements
 
-- [Email: QPHL childcare arrangements](/downloads/emails/qphl-childcare-arrangements/) <small><time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time></small>
-- [QPHL childcare company agreement](/downloads/qphl-childcare-company-agreement.pdf) <small><time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (195KB PDF)</small>
-- [Letter to schools from Chris Watt](/downloads/letter-to-schools-from-chris-watt.pdf) <small><time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (165KB PDF)</small>
-- [Template: Letter to schools from parents](/downloads/letter-to-schools-from-parents.docx) <small><time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (214KB DOCX)</small>
+- [Email: QPHL childcare arrangements](/downloads/emails/qphl-childcare-arrangements/) <small>Added <time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time></small>
+- [QPHL childcare company agreement](/downloads/qphl-childcare-company-agreement.pdf) <small>Added <time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (195KB PDF)</small>
+- [Letter to schools from Chris Watt](/downloads/letter-to-schools-from-chris-watt.pdf) <small>Added <time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (165KB PDF)</small>
+- [Template: Letter to schools from parents](/downloads/letter-to-schools-from-parents.docx) <small>Added <time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time> (214KB DOCX)</small>
 
 ## Other useful resources
 
@@ -51,9 +51,9 @@ featured-image-alt-text: Title card
 
 ### Posters
 
-- [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (939KB PDF)</small>
-- [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (956KB PDF)</small>
-- [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small><time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (1.2MB PDF)</small>
+- [Hand washing guidelines](/downloads/hand-washing-guidelines.pdf) <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (939KB PDF)</small>
+- [Catch it, bin it, kill it poster](/downloads/catch-bin-kill.pdf) <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (956KB PDF)</small>
+- [Government coronavirus poster](/downloads/government-coronavirus-poster.pdf) <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (1.2MB PDF)</small>
 
 ---
 
