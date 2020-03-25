@@ -4,9 +4,7 @@
 
     times.forEach( time => {
         var absoluteTime = time.dateTime;
-        console.log(absoluteTime);
         var relativeTime = moment(absoluteTime).fromNow();
-        console.log(relativeTime);
         time.innerHTML = relativeTime;
     });
 </script>
