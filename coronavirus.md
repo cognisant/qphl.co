@@ -20,7 +20,7 @@ featured-image-alt-text: Title card
 
 ## QPHL communications
 
-- [Sanitisation packs](/downloads/sanitisation-packs.pdf) <small>Updated <time datetime="2020-03-27T08:30:00+00:00">27 March 2020</time> (164KB PDF)</small>
+- [Sanitisation pack info (replaces Self-isolation pack info)](/downloads/sanitisation-pack-info.pdf) <small>Updated <time datetime="2020-03-27T08:30:00+00:00">27 March 2020</time> (164KB PDF)</small>
 - [Key worker letter and car sign](/downloads/qphl-key-worker-letter.pdf) <small><time datetime="2020-03-26T10:30:00+00:00">26 March 2020</time> (519KB PDF)</small>
 - [Email: Move to level 4 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/) <small>Added <time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time></small>
 - [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small>Added <time datetime="2020-03-23T12:00:00+00:00">23 March 2020</time></small>
