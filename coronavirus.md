@@ -20,6 +20,7 @@ featured-image-alt-text: Title card
 
 ## QPHL communications
 
+- [Sanitisation packs](/downloads/sanitisation-packs.pdf) <small>Updated <time datetime="2020-03-27T08:30:00+00:00">27 March 2020</time> (164KB PDF)</small>
 - [Key worker letter and car sign](/downloads/qphl-key-worker-letter.pdf) <small><time datetime="2020-03-26T10:30:00+00:00">26 March 2020</time> (519KB PDF)</small>
 - [Email: Move to level 4 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/) <small>Added <time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time></small>
 - [Email: Prescription medication from Pharmaxo](/downloads/emails/prescription-medication-from-pharmaxo/) <small>Added <time datetime="2020-03-23T12:00:00+00:00">23 March 2020</time></small>
@@ -27,7 +28,6 @@ featured-image-alt-text: Title card
 - [Form: Potential work for family members](/downloads/potential-work-for-family-members-form.docx) <small>Added <time datetime="2020-03-20T12:00:00+00:00">20 March 2020</time> (218KB DOCX)</small>
 - [Email: Move to level 3 of the QPHL COVID-19 escalation plan](/downloads/emails/move-to-level-3-of-the-qphl-covid-19-escalation-plan/) <small>Added <time datetime="2020-03-18T12:00:00+00:00">18 March 2020</time></small>
 - [Employee caring responsibilities form](https://bit.ly/qphlcare) <small>Added <time datetime="2020-03-17T12:00:00+00:00">17 March 2020</time></small>
-- [Self-isolation packs and FAQs](/downloads/self-isolation-packs.pdf) <small>Added <time datetime="2020-03-13T12:00:00+00:00">13 March 2020</time> (171KB PDF)</small>
 - [Take-home pack information & staff FAQs](/downloads/take-home-pack-information.pdf) <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (305KB PDF)</small>
 - [COVID-19: Your part to play](/downloads/covid-19-your-part-to-play.pdf) <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (112KB PDF)</small>
 
