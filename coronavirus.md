@@ -20,7 +20,7 @@ featured-image-alt-text: Title card
 
 ## QPHL communications
 
-- [Email: Staying at home resources](/downloads/emails/staying-at-home-resources/) <small>Added <time datetime="2020-04-03T10:39:00+01:00">3 April 2020</time</small>
+- [Email: Staying at home resources](/downloads/emails/staying-at-home-resources/) <small>Added <time datetime="2020-04-03T10:39:00+01:00">3 April 2020</time></small>
 - [Email: COVID-19 Q&A vlog](/downloads/emails/covid-19-q-a-vlog/) <small>Added <time datetime="2020-04-03T09:54:00+01:00">3 April 2020</time></small>
 - [Email: COVID-19 update 01/04](/downloads/emails/covid-19-update-01-04/) <small>Added <time datetime="2020-04-01T12:38:00+01:00">1 April 2020</time></small>
 - [Sanitisation pack info (replaces Self-isolation pack info)](/downloads/sanitisation-pack-info.pdf) <small>Updated <time datetime="2020-03-27T08:30:00+00:00">27 March 2020</time> (164KB PDF)</small>
