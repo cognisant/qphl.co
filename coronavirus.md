@@ -43,6 +43,10 @@ featured-image-alt-text: Title card
 
 ## Other useful resources
 
+### GOV.UK
+
+- [Coronavirus (COVID-19) in the UK data dashboard](https://coronavirus.data.gov.uk/)
+
 ### NHS
 
 - [Every mind matters: looking after your mental health](https://www.nhs.uk/oneyou/every-mind-matters/)
@@ -50,11 +54,6 @@ featured-image-alt-text: Title card
 - [10 tips to help if you are worried about coronavirus](https://www.nhs.uk/oneyou/every-mind-matters/coronavirus-covid-19-anxiety-tips/)
 - [About coronavirus (COVID-19) & NHS 111 online assessment](https://111.nhs.uk/service/COVID-19/)
 - [NHS advice and common questions on COVID-19](https://www.nhs.uk/conditions/coronavirus-covid-19/)
-
-### Public Health England
-
-- [Track coronavirus cases (desktop)](https://www.arcgis.com/apps/opsdashboard/index.html#/f94c3c90da5b4e9f9a0b19484dd4bb14) <small>Updated daily</small>
-- [Track coronavirus cases (mobile)](https://www.arcgis.com/apps/opsdashboard/index.html#/ae5dda8f86814ae99dde905d2a9070ae) <small>Updated daily</small>
 
 ### Posters
 
