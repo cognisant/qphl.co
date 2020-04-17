@@ -23,7 +23,7 @@ What we would like to offer you is if you or a family member are on regular medi
 
 Please note that practices are being encouraged to put as many suitable patients on to electronic repeat dispensing as soon as they can. This will speed up the process for repeat prescriptions to be authorised but currently Pharmaxo cannot operate this service.
 
-Any questions or to take advantage of this service please email [dispensary@pharmaxo.com](mailt:disspensary@pharmaxo.com).
+Any questions or to take advantage of this service please email [dispensary@pharmaxo.com](mailto:dispensary@pharmaxo.com).
 
 Best regards,
 
