@@ -45,6 +45,7 @@ featured-image-alt-text: Title card
 
 ### NHS
 
+- [Every mind matters: looking after your mental health](https://www.nhs.uk/oneyou/every-mind-matters/)
 - [NHS coronavirus status checker](https://www.nhs.uk/coronavirus-status-checker/)
 - [10 tips to help if you are worried about coronavirus](https://www.nhs.uk/oneyou/every-mind-matters/coronavirus-covid-19-anxiety-tips/)
 - [About coronavirus (COVID-19) & NHS 111 online assessment](https://111.nhs.uk/service/COVID-19/)
