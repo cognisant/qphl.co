@@ -43,7 +43,7 @@ We acknowledge that this is a difficult time for all of us and we thought this w
 
 - LinkedIn has made [16 of their courses free](https://www.linkedin.com/learning/paths/remote-working-setting-yourself-and-your-teams-up-for-success).
 - [Free online courses](https://www.businessinsider.com/free-online-courses-from-best-colleges?r=US&IR=T) from some of the top US colleges like Harvard & Yale.
-- Babbel – learn a language, [first month is free](https://www.babbel.com/) and they are currently offering 6 months extra free if you sign up for a year.
+- Babbel – learn a language, [first month is free](https://uk.babbel.com/) and they are currently offering 6 months extra free if you sign up for a year.
 - 3 months of free guitar lessons from [Fender](https://try.fender.com/play/playthrough/?clickref=1011l7UNsiWo&aff_id=1101l42671).
 
 This list is every growing so if you have a resource you would like to share please let me know. Take care everyone and I hope these help make staying home a little bit more enjoyable.
