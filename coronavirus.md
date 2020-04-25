@@ -41,6 +41,10 @@ featured-image-alt-text: Title card
     <summary>QPHL communications</summary>
     <ul>
         <li>
+            <a href="/downloads/emails/covid-19-update-24-04/">Email: COVID-19 update 24/04</a>
+            <small>Added <time datetime="2020-04-25T07:07:00">25 April 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/staying-at-home-resources/">Email: Staying at home resources</a>
             <small>Added <time datetime="2020-04-03T10:39:00+01:00">3 April 2020</time></small>
         </li>
