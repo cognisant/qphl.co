@@ -19,6 +19,13 @@ featured-image-alt-text: Title card
     </ul>
 </div>
 
+<div class="recent">
+    <h2>Latest updates</h2>
+    <ul>
+        <li><a href="https://www.clinicalhomecare.org/news-on-coronavirus-covid-19-and-homecare-services/">NCHA News on Coronavirus (COVID 19) and Homecare Services</a> <small>Added <time datetime="2020-04-29T10:00:00">29 April 2020</time></small></li>
+    </ul>
+</div>
+
 <details>
     <summary>QPHL policies and guidance</summary>
     <ul>
@@ -121,8 +128,9 @@ featured-image-alt-text: Title card
 </details>
 
 <details>
-    <summary>NHS advice and support</summary>
+    <summary>NHS and NCHA advice and support</summary>
     <ul>
+        <li><a href="https://www.clinicalhomecare.org/news-on-coronavirus-covid-19-and-homecare-services/">NCHA News on Coronavirus (COVID 19) and Homecare Services</a></li>
         <li><a href="https://www.nhs.uk/oneyou/every-mind-matters/">Every mind matters: looking after your mental health</a></li>
         <li><a href="https://www.nhs.uk/coronavirus-status-checker/">NHS coronavirus status checker</a></li>
         <li><a href="https://111.nhs.uk/service/COVID-19/">About coronavirus (COVID-19) &amp; NHS 111 online assessment</a></li>
