@@ -159,15 +159,11 @@ featured-image-alt-text: Title card
     <summary>How to save this page on your phone</summary>
     <p>For Android users:</p>
     <ol>
-        <li>Launch Chrome for Android, other browsers won’t work for this.</li>
-        <li>Go to <a href="https://qphl.co/coronavirus/">qphl.co/coronavirus</a>.</li>
         <li>Tap the menu button and then tap “Add to home screen.”</li>
         <li>You’ll then be able to enter a name for the shortcut and then Chrome will add it to your home screen.</li>
     </ol>
     <p>For iPhone users:</p>
     <ol>
-        <li>Open Safari. Other browsers, such as Chrome, won’t work for this.</li>
-        <li>Go to <a href="https://qphl.co/coronavirus/">qphl.co/coronavirus</a>.</li>
         <li>Tap the Share button at the bottom of the page. It looks like a square with an arrow pointing out of the top.</li>
         <li>In the list of options that appears, scroll down until you see Add to Home Screen. Tap this.</li>
         <li>On the next screen, choose a name for the website shortcut on your home screen. You’ll see the link so you can confirm it, as well as the site’s favicon that becomes its “app” icon. Click Add when you’re done.</li>
