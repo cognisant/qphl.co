@@ -40,8 +40,11 @@
         :root {
             --color-blue-700: #1976D2;
             --color-blue-900: #0D47A1;
+            --color-green-50: #E8F5E9;
+            --color-green-800: #2E7D32;
             --color-grey-300: #E0E0E0;
             --color-grey-600: #757575;
+            --color-grey-700: #616161;
             --color-grey-900: #212121;
             --color-deep-purple-700: #512DA8;
             --color-deep-purple-900: #311B92;
@@ -204,15 +207,21 @@
             margin: 0.75rem 0 0;
         }
         .recent {
-            background-color: #E8F5E9;
+            background-color: var(--color-green-50);
             margin: -3rem -1.5rem 3rem;
             padding: 1.5rem 1.5rem 0.75rem;
         }
+        .recent a {
+            color: var(--color-blue-900);
+        }
         .recent h2 {
-            color: #2E7D32;
+            color: var(--color-green-800);
         }
         .recent ul {
             margin: 0;
+        }
+        .recent small {
+            color: var(--color-grey-700);
         }
         {% if page.layout == "email" %}
             body {
