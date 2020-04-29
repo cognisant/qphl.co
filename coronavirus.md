@@ -10,19 +10,19 @@ featured-image-alt-text: Title card
 
 <small>Last updated <time datetime="{{ "now" | date_to_xmlschema }}">{{ "now" | date: "%A %e %B %Y" }}</time></small>
 
-<div class="hero--warning">
+<div class="notice notice--success">
+    <h2>Latest updates</h2>
+    <ul>
+        <li><a href="https://www.clinicalhomecare.org/news-on-coronavirus-covid-19-and-homecare-services/">NCHA News on Coronavirus (COVID 19) and Homecare Services</a> <small>Added <time datetime="2020-04-29T10:00:00">29 April 2020</time></small></li>
+    </ul>
+</div>
+
+<div class="notice notice--info">
     <h2>Key government guidance for three kinds of people:</h2>
     <ul>
         <li><a href="https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance">Staying at home if you think you have coronavirus (self-isolating)</a></li>
         <li><a href="https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others">Staying at home and away from others (social distancing)</a></li>
         <li><a href="https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19">How to protect extremely vulnerable people (shielding)</a></li>
-    </ul>
-</div>
-
-<div class="recent">
-    <h2>Latest updates</h2>
-    <ul>
-        <li><a href="https://www.clinicalhomecare.org/news-on-coronavirus-covid-19-and-homecare-services/">NCHA News on Coronavirus (COVID 19) and Homecare Services</a> <small>Added <time datetime="2020-04-29T10:00:00">29 April 2020</time></small></li>
     </ul>
 </div>
 
