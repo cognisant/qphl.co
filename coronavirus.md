@@ -18,7 +18,7 @@ featured-image-alt-text: Title card
 </div>
 
 <div class="notice notice--info">
-    <h2>Key government guidance for three kinds of people:</h2>
+    <h2>Key government guidance for three kinds of people</h2>
     <ul>
         <li><a href="https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance">Staying at home if you think you have coronavirus (self-isolating)</a></li>
         <li><a href="https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others">Staying at home and away from others (social distancing)</a></li>
