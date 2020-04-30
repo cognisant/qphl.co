@@ -21,22 +21,6 @@
     <meta content="https://qphl.co{{ page.featured-image }}" property="og:image">
     <meta content="{{ page.featured-image-alt-text }}" property="og:image:alt">
     <style>
-        @font-face {
-            font-display: swap;
-            font-family: 'Inter';
-            font-style:  normal;
-            font-weight: 400;
-            src: url("/fonts/Inter-Regular.woff2") format("woff2"),
-                 url("/fonts/Inter-Regular.woff") format("woff");
-        }
-        @font-face {
-            font-display: swap;
-            font-family: 'Inter';
-            font-style:  normal;
-            font-weight: 700;
-            src: url("/fonts/Inter-Bold.woff2") format("woff2"),
-                 url("/fonts/Inter-Bold.woff") format("woff");
-        }
         :root {
             --color-blue-50: #E3F2FD;
             --color-blue-700: #1976D2;
@@ -54,6 +38,7 @@
             --color-yellow-A700: #FFD600;
             border-top: 0.75rem solid var(--color-blue-700);
             box-sizing: border-box;
+            font-feature-settings: 'calt' 0;
             font-size: 100%;
         }
         @media (min-width: 720px) {
@@ -239,6 +224,7 @@
             }
         {% endif %}
     </style>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
 </head>
 <body>
     <noscript>
