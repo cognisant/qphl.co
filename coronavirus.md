@@ -13,7 +13,10 @@ featured-image-alt-text: Title card
 <div class="notice notice--success">
     <h2>Latest updates</h2>
     <ul>
-        <li><a href="https://www.clinicalhomecare.org/news-on-coronavirus-covid-19-and-homecare-services/">NCHA News on Coronavirus (COVID 19) and Homecare Services</a> <small>Added <time datetime="2020-04-29T10:00:00">29 April 2020</time></small></li>
+        <li>
+            <a href="/downloads/emails/annual-leave-update/">Email: Annual leave update</a>
+            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-05-07T11:41:00">7 May 2020</time></small>
+        </li>
     </ul>
 </div>
 
@@ -47,6 +50,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/annual-leave-update/">Email: Annual leave update</a>
+            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-05-07T11:41:00">7 May 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/covid-19-update-24-04/">Email: COVID-19 update 24/04</a>
             <small>Added <time datetime="2020-04-25T07:07:00">25 April 2020</time></small>
