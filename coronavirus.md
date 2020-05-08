@@ -14,7 +14,7 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/covid-19-update-7-may-2020/">Email: COVID-19 update 7 May 2020</a>
+            <a href="/downloads/emails/covid-19-update-07-05/">Email: COVID-19 update 07/05</a>
             <small>Added <time datetime="2020-05-07T17:00:00">7 May 2020</time></small>
         </li>
         <li>
@@ -55,7 +55,7 @@ featured-image-alt-text: Title card
     <summary>QPHL communications</summary>
     <ul>
         <li>
-            <a href="/downloads/emails/covid-19-update-7-may-2020/">Email: COVID-19 update 7 May 2020</a>
+            <a href="/downloads/emails/covid-19-update-07-05/">Email: COVID-19 update 07/05</a>
             <small>Added <time datetime="2020-05-07T17:00:00">7 May 2020</time></small>
         </li>
         <li>

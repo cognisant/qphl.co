@@ -1,7 +1,7 @@
 ---
 layout: email
-permalink: /downloads/emails/covid-19-update-7-may-2020/
-title: COVID-19 update 7 May 2020
+permalink: /downloads/emails/covid-19-update-07-05/
+title: COVID-19 update 07/05
 ---
 
 <small>17:00 on 7 May 2020</small>
