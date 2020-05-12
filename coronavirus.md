@@ -14,12 +14,8 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/covid-19-update-07-05/">Email: COVID-19 update 07/05</a>
-            <small>Added <time datetime="2020-05-07T17:00:00">7 May 2020</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/annual-leave-update/">Email: Annual leave update</a>
-            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-05-07T11:41:00">7 May 2020</time></small>
+            <a href="/downloads/emails/covid-19-update-12-05/">Email: COVID-19 update 12/05</a>
+            <small>Added <time datetime="2020-05-12T13:35:00">12 May 2020</time></small>
         </li>
     </ul>
 </div>
@@ -54,6 +50,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/covid-19-update-12-05/">Email: COVID-19 update 12/05</a>
+            <small>Added <time datetime="2020-05-12T13:35:00">12 May 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/covid-19-update-07-05/">Email: COVID-19 update 07/05</a>
             <small>Added <time datetime="2020-05-07T17:00:00">7 May 2020</time></small>
