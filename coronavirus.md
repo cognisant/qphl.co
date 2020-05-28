@@ -8,8 +8,6 @@ featured-image: /images/coronavirus-og.png
 featured-image-alt-text: Title card
 ---
 
-<small>Last updated <time datetime="{{ "now" | date_to_xmlschema }}">{{ "now" | date: "%A %e %B %Y" }}</time></small>
-
 <div class="notice notice--success">
     <h2>Latest updates</h2>
     <ul>
