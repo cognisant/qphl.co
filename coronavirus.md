@@ -12,8 +12,8 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/covid-19-update-12-05/">Email: COVID-19 update 12/05</a>
-            <small>Added <time datetime="2020-05-12T13:35:00">12 May 2020</time></small>
+            <a href="/downloads/covid-secure-workplace-risk-assessment-v8.pdf">COVID-19 secure workplace risk assessment</a>
+            <small>Added <time datetime="2020-05-28T16:25:00">28 May 2020</time></small>
         </li>
     </ul>
 </div>
@@ -46,6 +46,24 @@ featured-image-alt-text: Title card
 </details>
 
 <details>
+    <summary>QPHL working from home</summary>
+    <ul>
+        <li>
+            <a href="/downloads/covid-secure-workplace-risk-assessment-v8.pdf">COVID-19 secure workplace risk assessment</a>
+            <small>Added <time datetime="2020-05-28T16:25:00">28 May 2020</time></small>
+        </li>
+        <li>
+            <a href="/downloads/emails/staying-at-home-resources/">Email: Staying at home resources</a>
+            <small>Added <time datetime="2020-04-03T10:39:00+01:00">3 April 2020</time></small>
+        </li>
+        <li>
+            <a href="/downloads/sanitisation-pack-info.pdf">Sanitisation pack info (replaces Self-isolation pack info)</a>
+            <small>Updated <time datetime="2020-03-27T08:30:00+00:00">27 March 2020</time> (164KB PDF)</small>
+        </li>
+    </ul>
+</details>
+
+<details>
     <summary>QPHL communications</summary>
     <ul>
         <li>
@@ -65,19 +83,11 @@ featured-image-alt-text: Title card
             <small>Added <time datetime="2020-04-25T07:07:00">25 April 2020</time></small>
         </li>
         <li>
-            <a href="/downloads/emails/staying-at-home-resources/">Email: Staying at home resources</a>
-            <small>Added <time datetime="2020-04-03T10:39:00+01:00">3 April 2020</time></small>
-        </li>
-        <li>
             <a href="/downloads/emails/covid-19-q-a-vlog/">Email: COVID-19 Q&amp;A vlog</a>
             <small>Added <time datetime="2020-04-03T09:54:00+01:00">3 April 2020</time></small></li>
         <li>
             <a href="/downloads/emails/covid-19-update-01-04/">Email: COVID-19 update 01/04</a>
             <small>Added <time datetime="2020-04-01T12:38:00+01:00">1 April 2020</time></small>
-        </li>
-        <li>
-            <a href="/downloads/sanitisation-pack-info.pdf">Sanitisation pack info (replaces Self-isolation pack info)</a>
-            <small>Updated <time datetime="2020-03-27T08:30:00+00:00">27 March 2020</time> (164KB PDF)</small>
         </li>
         <li>
             <a href="/downloads/qphl-key-worker-letter.pdf">Key worker letter and car sign</a>
