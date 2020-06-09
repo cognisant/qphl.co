@@ -81,6 +81,10 @@ featured-image-alt-text: Title card
             <small>Added <time datetime="2020-06-04T08:16:00+01:00">4 June 2020</time></small>
         </li>
         <li>
+            <a href="/downloads/emails/covid-19-update-28-05/">Email: COVID-19 update 28/05</a>
+            <small>Added <time datetime="2020-05-28T15:36:00+01:00">28 May 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/covid-19-update-12-05/">Email: COVID-19 update 12/05</a>
             <small>Added <time datetime="2020-05-12T13:35:00">12 May 2020</time></small>
         </li>
