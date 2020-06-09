@@ -8,7 +8,7 @@ title: COVID-19 update 28/05
 
 Dear team,
 
-Attached is a pdf for you to be able to see the outcome of our COVID-19 Safe Workplace Risk Assessment. We are sharing the details on the [qphl.co/coronavirus](https://qphl.co/coronavirus/) public page so your families might see the work we have done, should they be interested or concerned.
+Attached is a [PDF](/downloads/covid-secure-workplace-risk-assessment-v8.pdf) for you to be able to see the outcome of our COVID-19 Safe Workplace Risk Assessment. We are sharing the details on the [qphl.co/coronavirus](https://qphl.co/coronavirus/) public page so your families might see the work we have done, should they be interested or concerned.
 
 It has taken a little longer to complete it as comprehensively as we felt it should be, there are around 20 pages of risk assessed and/or actions taken. The risk assessment has been no small task for the team to deliver, thank you to all who were involved. Specific thanks to Stuart Kotchie and Martyn Smith, who I can see from activity records have been working well outside normal hours to give this job the level of attention “Our community” deserves.
 
