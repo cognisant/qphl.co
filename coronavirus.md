@@ -18,6 +18,16 @@ featured-image-alt-text: Title card
     </ul>
 </div>
 
+<div class="notice notice--warning">
+    <h2>Important</h2>
+    <ul>
+        <li>
+            <a href="/downloads/covid-secure-workplace-risk-assessment-v8.pdf">COVID-19 secure workplace risk assessment</a>
+            <small>Added <time datetime="2020-05-28T15:25:00+01:00">28 May 2020</time></small>
+        </li>
+    </ul>
+</div>
+
 <div class="notice notice--info">
     <h2>Key government guidance for three kinds of people</h2>
     <ul>
