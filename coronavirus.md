@@ -12,12 +12,8 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/change-to-sp3-entry-and-exits/">Email: Change to SP3 entry and exits</a>
-            <small>Added <time datetime="2020-06-04T08:16:00+01:00">4 June 2020</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/covid-19-update-28-05/">Email: COVID-19 update 28/05</a>
-            <small>Added <time datetime="2020-05-28T15:36:00+01:00">28 May 2020</time></small>
+            <a href="/downloads/emails/covid-19-secure-workplace-update/">Email: COVID-19 secure workplace update</a>
+            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-18T09:05:00+01:00">18 June 2020</time></small>
         </li>
     </ul>
 </div>
@@ -62,6 +58,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL working from home</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/covid-19-secure-workplace-update/">Email: COVID-19 secure workplace update</a>
+            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-18T09:05:00+01:00">18 June 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/covid-secure-workplace-risk-assessment-v8.pdf">COVID-19 secure workplace risk assessment</a>
             <small>Added <time datetime="2020-05-28T15:25:00+01:00">28 May 2020</time></small>
