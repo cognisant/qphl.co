@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/temperature-scanning-going-live-update/">Temperature scanning going live update</a>
+            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-19T12:59:00+01:00">19 June 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/covid-19-secure-workplace-update/">Email: COVID-19 secure workplace update</a>
             <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-18T09:05:00+01:00">18 June 2020</time></small>
         </li>
@@ -28,14 +32,14 @@ featured-image-alt-text: Title card
     </ul>
 </div>
 
-<div class="notice notice--info">
+<!-- <div class="notice notice--info">
     <h2>Key government guidance for three kinds of people</h2>
     <ul>
         <li><a href="https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance">Staying at home if you think you have coronavirus (self-isolating)</a></li>
         <li><a href="https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others">Staying at home and away from others (social distancing)</a></li>
         <li><a href="https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19">How to protect extremely vulnerable people (shielding)</a></li>
     </ul>
-</div>
+</div> -->
 
 <details>
     <summary>QPHL policies and guidance</summary>
@@ -51,6 +55,24 @@ featured-image-alt-text: Title card
         <li>
             <a href="/downloads/qphl-sickness-policy.pdf">Sickness policy</a>
             <small>Added <time datetime="2020-03-01T12:00:00+00:00">1 March 2020</time> (316KB PDF)</small>
+        </li>
+    </ul>
+</details>
+
+<details>
+    <summary>QPHL working on site</summary>
+    <ul>
+        <li>
+            <a href="/downloads/emails/temperature-scanning-going-live-update/">Temperature scanning going live update</a>
+            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-19T12:59:00+01:00">19 June 2020</time></small>
+        </li>
+        <li>
+            <a href="/downloads/emails/change-to-sp3-entry-and-exits/">Email: Change to SP3 entry and exits</a>
+            <small>Added <time datetime="2020-06-04T08:16:00+01:00">4 June 2020</time></small>
+        </li>
+        <li>
+            <a href="/downloads/qphl-key-worker-letter.pdf">Key worker letter and car sign</a>
+            <small><time datetime="2020-03-26T10:30:00+00:00">26 March 2020</time> (519KB PDF)</small>
         </li>
     </ul>
 </details>
@@ -74,16 +96,16 @@ featured-image-alt-text: Title card
             <a href="/downloads/sanitisation-pack-info.pdf">Sanitisation pack info (replaces Self-isolation pack info)</a>
             <small>Updated <time datetime="2020-03-27T08:30:00+00:00">27 March 2020</time> (164KB PDF)</small>
         </li>
+        <li>
+            <a href="/downloads/take-home-pack-information.pdf">Take-home pack information &amp; staff FAQs</a>
+            <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (305KB PDF)</small>
+        </li>
     </ul>
 </details>
 
 <details>
     <summary>QPHL communications</summary>
     <ul>
-        <li>
-            <a href="/downloads/emails/change-to-sp3-entry-and-exits/">Email: Change to SP3 entry and exits</a>
-            <small>Added <time datetime="2020-06-04T08:16:00+01:00">4 June 2020</time></small>
-        </li>
         <li>
             <a href="/downloads/emails/covid-19-update-28-05/">Email: COVID-19 update 28/05</a>
             <small>Added <time datetime="2020-05-28T15:36:00+01:00">28 May 2020</time></small>
@@ -112,10 +134,6 @@ featured-image-alt-text: Title card
             <small>Added <time datetime="2020-04-01T12:38:00+01:00">1 April 2020</time></small>
         </li>
         <li>
-            <a href="/downloads/qphl-key-worker-letter.pdf">Key worker letter and car sign</a>
-            <small><time datetime="2020-03-26T10:30:00+00:00">26 March 2020</time> (519KB PDF)</small>
-        </li>
-        <li>
             <a href="/downloads/emails/move-to-level-4-of-the-qphl-covid-19-escalation-plan/">Email: Move to level 4 of the QPHL COVID-19 escalation plan</a>
             <small>Added <time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time></small>
         </li>
@@ -138,10 +156,6 @@ featured-image-alt-text: Title card
         <li>
             <a href="https://bit.ly/qphlcare">Employee caring responsibilities form</a>
             <small>Added <time datetime="2020-03-17T12:00:00+00:00">17 March 2020</time></small>
-        </li>
-        <li>
-            <a href="/downloads/take-home-pack-information.pdf">Take-home pack information &amp; staff FAQs</a>
-            <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (305KB PDF)</small>
         </li>
         <li>
             <a href="/downloads/covid-19-your-part-to-play.pdf">COVID-19: Your part to play</a>
