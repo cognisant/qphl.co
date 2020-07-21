@@ -182,7 +182,6 @@ featured-image-alt-text: Title card
     <ul>
         <li><a href="https://www.clinicalhomecare.org/news-on-coronavirus-covid-19-and-homecare-services/">NCHA News on Coronavirus (COVID 19) and Homecare Services</a></li>
         <li><a href="https://www.nhs.uk/oneyou/every-mind-matters/">Every mind matters: looking after your mental health</a></li>
-        <li><a href="https://www.nhs.uk/coronavirus-status-checker/">NHS coronavirus status checker</a></li>
         <li><a href="https://111.nhs.uk/service/COVID-19/">About coronavirus (COVID-19) &amp; NHS 111 online assessment</a></li>
         <li><a href="https://www.nhs.uk/conditions/coronavirus-covid-19/">NHS advice and common questions on COVID-19</a></li>
     </ul>
