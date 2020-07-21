@@ -12,12 +12,8 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/temperature-scanning-going-live-update/">Temperature scanning going live update</a>
-            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-19T12:59:00+01:00">19 June 2020</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/covid-19-secure-workplace-update/">Email: COVID-19 secure workplace update</a>
-            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-18T09:05:00+01:00">18 June 2020</time></small>
+            <a href="/downloads/emails/temporary-childrens-summer-club/">Email: Temporary children’s summer club</a>
+            <small>Added <time datetime="2020-07-21T06:56+01:00">21 July 2020</time></small>
         </li>
     </ul>
 </div>
@@ -31,15 +27,6 @@ featured-image-alt-text: Title card
         </li>
     </ul>
 </div>
-
-<!-- <div class="notice notice--info">
-    <h2>Key government guidance for three kinds of people</h2>
-    <ul>
-        <li><a href="https://www.gov.uk/government/publications/covid-19-stay-at-home-guidance">Staying at home if you think you have coronavirus (self-isolating)</a></li>
-        <li><a href="https://www.gov.uk/government/publications/full-guidance-on-staying-at-home-and-away-from-others">Staying at home and away from others (social distancing)</a></li>
-        <li><a href="https://www.gov.uk/government/publications/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19/guidance-on-shielding-and-protecting-extremely-vulnerable-persons-from-covid-19">How to protect extremely vulnerable people (shielding)</a></li>
-    </ul>
-</div> -->
 
 <details>
     <summary>QPHL policies and guidance</summary>
@@ -167,6 +154,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL childcare arrangements</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/temporary-childrens-summer-club/">Email: Temporary children’s summer club</a>
+            <small>Added <time datetime="2020-07-21T06:56+01:00">21 July 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/qphl-childcare-arrangements/">Email: QPHL childcare arrangements</a>
             <small>Added <time datetime="2020-03-19T12:00:00+00:00">19 March 2020</time></small>
