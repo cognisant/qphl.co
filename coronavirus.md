@@ -12,6 +12,14 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/pandemic-policy-update/">Email: Pandemic policy update</a>
+            <small>Added <time datetime="2020-08-13T14:03+01:00">13 August 2020</time></small>
+        </li>
+        <li>
+            <a href="/downloads/emails/thermal-scanner-protocol/">Email: Thermal scanner protocol: watch our video so you know what to do</a>
+            <small>Added <time datetime="2020-08-13T07:29+01:00">13 August 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/seasonal-flu-vaccines-2020/">Email: Seasonal flu vaccines 2020</a>
             <small><span class="label label--warning">Action required</span> Added <time datetime="2020-08-10T12:33:00+01:00">10 August 2020</time></small>
         </li>
@@ -53,6 +61,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL working on site</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/thermal-scanner-protocol/">Email: Thermal scanner protocol: watch our video so you know what to do</a>
+            <small>Added <time datetime="2020-08-13T07:29+01:00">13 August 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/temperature-scanning-going-live-update/">Temperature scanning going live update</a>
             <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-19T12:59:00+01:00">19 June 2020</time></small>
@@ -97,6 +109,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/pandemic-policy-update/">Email: Pandemic policy update</a>
+            <small>Added <time datetime="2020-08-13T14:03+01:00">13 August 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/seasonal-flu-vaccines-2020/">Email: Seasonal flu vaccines 2020</a>
             <small><span class="label label--warning">Action required</span> Added <time datetime="2020-08-10T12:33:00+01:00">10 August 2020</time></small>
