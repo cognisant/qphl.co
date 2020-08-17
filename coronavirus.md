@@ -98,6 +98,10 @@ featured-image-alt-text: Title card
     <summary>QPHL communications</summary>
     <ul>
         <li>
+            <a href="/downloads/emails/seasonal-flu-vaccines-2020/">Email: Seasonal flu vaccines 2020</a>
+            <small><span class="label label--warning">Action required</span> Added <time datetime="2020-08-10T12:33:00+01:00">10 August 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/covid-19-update-28-05/">Email: COVID-19 update 28/05</a>
             <small>Added <time datetime="2020-05-28T15:36:00+01:00">28 May 2020</time></small>
         </li>
