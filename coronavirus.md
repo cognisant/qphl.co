@@ -12,8 +12,8 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/temporary-childrens-summer-club/">Email: Temporary children’s summer club</a>
-            <small>Added <time datetime="2020-07-21T06:56+01:00">21 July 2020</time></small>
+            <a href="/downloads/qphl-pandemic-policy-v2.pdf">Pandemic policy</a>
+            <small>Updated <time datetime="2020-08-10T12:00:00+00:00">10 August 2020</time> (246KB PDF)</small>
         </li>
     </ul>
 </div>
@@ -36,8 +36,8 @@ featured-image-alt-text: Title card
             <small>Updated <time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time> (159KB PDF)</small>
         </li>
         <li>
-            <a href="/downloads/qphl-pandemic-policy.pdf">Pandemic policy</a>
-            <small>Added <time datetime="2020-03-09T12:00:00+00:00">9 March 2020</time> (193KB PDF)</small>
+            <a href="/downloads/qphl-pandemic-policy-v2.pdf">Pandemic policy</a>
+            <small>Updated <time datetime="2020-08-10T12:00:00+00:00">10 August 2020</time> (246KB PDF)</small>
         </li>
         <li>
             <a href="/downloads/qphl-sickness-policy.pdf">Sickness policy</a>
