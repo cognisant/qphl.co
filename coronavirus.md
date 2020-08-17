@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/seasonal-flu-vaccines-2020/">Email: Seasonal flu vaccines 2020</a>
+            <small><span class="label label--warning">Action required</span> Added <time datetime="2020-08-10T12:33:00+01:00">10 August 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/qphl-pandemic-policy-v2.pdf">Pandemic policy</a>
             <small>Updated <time datetime="2020-08-10T12:00:00+00:00">10 August 2020</time> (246KB PDF)</small>
         </li>
