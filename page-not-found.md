@@ -1,0 +1,10 @@
+---
+layout: email
+title: Error 404
+---
+
+## Page not found
+
+We couldn’t find the page you’re looking for.
+
+Try going [back to the homepage](/).
