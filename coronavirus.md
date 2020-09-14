@@ -13,7 +13,7 @@ featured-image-alt-text: Title card
     <ul>
         <li>
             <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
-            <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time></small>
+            <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time> (480KB PDF)</small>
         </li>
     </ul>
 </div>
@@ -33,7 +33,7 @@ featured-image-alt-text: Title card
     <ul>
         <li>
             <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
-            <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time></small>
+            <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time> (480KB PDF)</small>
         </li>
         <li>
             <a href="/downloads/qphl-coronavirus-plan-v5.pdf">Current COVID-19 escalation plan</a>
