@@ -12,20 +12,8 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/pandemic-policy-update/">Email: Pandemic policy update</a>
-            <small>Added <time datetime="2020-08-13T14:03+01:00">13 August 2020</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/thermal-scanner-protocol/">Email: Thermal scanner protocol: watch our video so you know what to do</a>
-            <small>Added <time datetime="2020-08-13T07:29+01:00">13 August 2020</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/seasonal-flu-vaccines-2020/">Email: Seasonal flu vaccines 2020</a>
-            <small><span class="label label--warning">Action required</span> Added <time datetime="2020-08-10T12:33:00+01:00">10 August 2020</time></small>
-        </li>
-        <li>
-            <a href="/downloads/qphl-pandemic-policy-v2.pdf">Pandemic policy</a>
-            <small>Updated <time datetime="2020-08-10T12:00:00+00:00">10 August 2020</time> (246KB PDF)</small>
+            <a href="qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
+            <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time></small>
         </li>
     </ul>
 </div>
@@ -43,6 +31,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL policies and guidance</summary>
     <ul>
+        <li>
+            <a href="qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
+            <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/qphl-coronavirus-plan-v5.pdf">Current COVID-19 escalation plan</a>
             <small>Updated <time datetime="2020-03-24T15:29:00+00:00">24 March 2020</time> (159KB PDF)</small>
