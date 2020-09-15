@@ -12,9 +12,7 @@ As our children return to their schools and the Autumn is upon us, we have also 
 
 Whilst not yet followed by increased hospital admission, increasing COVID-19 positive tests in the general population are leading to local lockdowns. We have seen small outbreaks locally in Swindon and Wiltshire with Wiltshire Council Public Health and PHE acting swiftly to bring them under control. Nobody should believe the worst is past us, the science still backs the Government in this clear and simple message; “Stick to the guidance”:
 
-- **HANDS:** Wash your hands regularly and for 20 seconds.
-- **FACE:** Wear a face covering in indoor settings where social distancing may be difficult, and where you will come into contact with people you do not normally meet.
-- **SPACE:** Stay 2 metres apart from people you do not live with where possible, or 1 metre with extra precautions in place (such as wearing face coverings or increasing ventilation indoors).
+<img src="/images/hands-face-space.png" alt="Hands: wash your hands regularly. Face: Wear a face covering in indoor settings where social distancing may be difficult, and where you will come into contact with people you do not normally meet. Space: Stay 2 metres apart from people you do not live with where possible, or 1 metre with extra precautions in place (such as wearing face coverings or increasing ventilation indoors).">
 
 ---
 
