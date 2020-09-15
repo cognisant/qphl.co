@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/covid-19-update-15-09/">Email: COVID-19 update 15/09</a>
+            <small>Added <time datetime="2020-09-15T08:36:00+01:00">15 September 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
             <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time> (480KB PDF)</small>
         </li>
@@ -21,6 +25,10 @@ featured-image-alt-text: Title card
 <div class="notice notice--warning">
     <h2>Important</h2>
     <ul>
+        <li>
+            <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
+            <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time> (480KB PDF)</small>
+        </li>
         <li>
             <a href="/downloads/covid-secure-workplace-risk-assessment-v8.pdf">COVID-19 secure workplace risk assessment</a>
             <small>Added <time datetime="2020-05-28T15:25:00+01:00">28 May 2020</time></small>
@@ -101,6 +109,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/covid-19-update-15-09/">Email: COVID-19 update 15/09</a>
+            <small>Added <time datetime="2020-09-15T08:36:00+01:00">15 September 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/pandemic-policy-update/">Email: Pandemic policy update</a>
             <small>Added <time datetime="2020-08-13T14:03+01:00">13 August 2020</time></small>
