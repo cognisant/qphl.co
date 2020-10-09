@@ -239,7 +239,7 @@ featured-image-alt-text: Title card
     <summary>Posters</summary>
     <ul>
         <li>
-            <a href="/downloads/wiltshiretogether-employee-faqs.pdf">A quick guide for employees</a>
+            <a href="/downloads/quick-guide-for-employees.pdf">A quick guide for employees</a>
             <small>Added <time datetime="2020-10-09T11:00:00+01:00">9 October 2020</time> (50KB PDF)</small>
         </li>
         <li>
