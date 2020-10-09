@@ -12,12 +12,12 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/covid-19-update-15-09/">Email: COVID-19 update 15/09</a>
-            <small>Added <time datetime="2020-09-15T08:36:00+01:00">15 September 2020</time></small>
+            <a href="/downloads/quick-guide-for-employees.pdf">A quick guide for employees</a>
+            <small>Added <time datetime="2020-10-09T11:00:00+01:00">9 October 2020</time> (50KB PDF)</small>
         </li>
         <li>
-            <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
-            <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time> (480KB PDF)</small>
+            <a href="/downloads/emails/covid-19-update-15-09/">Email: COVID-19 update 15/09</a>
+            <small>Added <time datetime="2020-09-15T08:36:00+01:00">15 September 2020</time></small>
         </li>
     </ul>
 </div>
@@ -208,27 +208,52 @@ featured-image-alt-text: Title card
 <details>
     <summary>NHS and NCHA advice and support</summary>
     <ul>
-        <li><a href="https://www.clinicalhomecare.org/news-on-coronavirus-covid-19-and-homecare-services/">NCHA News on Coronavirus (COVID 19) and Homecare Services</a></li>
-        <li><a href="https://www.nhs.uk/oneyou/every-mind-matters/">Every mind matters: looking after your mental health</a></li>
-        <li><a href="https://111.nhs.uk/service/COVID-19/">About coronavirus (COVID-19) &amp; NHS 111 online assessment</a></li>
-        <li><a href="https://www.nhs.uk/conditions/coronavirus-covid-19/">NHS advice and common questions on COVID-19</a></li>
+        <li>
+            <a href="https://www.clinicalhomecare.org/news-on-coronavirus-covid-19-and-homecare-services/">NCHA News on Coronavirus (COVID 19) and Homecare Services</a>
+        </li>
+        <li>
+            <a href="https://www.nhs.uk/oneyou/every-mind-matters/">Every mind matters: looking after your mental health</a>
+        </li>
+        <li>
+            <a href="https://111.nhs.uk/service/COVID-19/">About coronavirus (COVID-19) &amp; NHS 111 online assessment</a>
+        </li>
+        <li>
+            <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/">NHS advice and common questions on COVID-19</a>
+        </li>
     </ul>
 </details>
 
 <details>
     <summary>GOV.UK stats</summary>
     <ul>
-        <li><a href="https://coronavirus.data.gov.uk">Track coronavirus cases in the UK</a></li>
-        <li><a href="https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public">Latest number of coronavirus cases in the UK</a></li>
+        <li>
+            <a href="https://coronavirus.data.gov.uk">Track coronavirus cases in the UK</a>
+        </li>
+        <li>
+            <a href="https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public">Latest number of coronavirus cases in the UK</a>
+        </li>
     </ul>
 </details>
 
 <details>
     <summary>Posters</summary>
     <ul>
-        <li><a href="/downloads/hand-washing-guidelines.pdf">Hand washing guidelines</a> <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (939KB PDF)</small></li>
-        <li><a href="/downloads/catch-bin-kill.pdf">Catch it, bin it, kill it poster</a> <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (956KB PDF)</small></li>
-        <li><a href="/downloads/government-coronavirus-poster.pdf">Government coronavirus poster</a> <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (1.2MB PDF)</small></li>
+        <li>
+            <a href="/downloads/wiltshiretogether-employee-faqs.pdf">A quick guide for employees</a>
+            <small>Added <time datetime="2020-10-09T11:00:00+01:00">9 October 2020</time> (50KB PDF)</small>
+        </li>
+        <li>
+            <a href="/downloads/hand-washing-guidelines.pdf">Hand washing guidelines</a>
+            <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (939KB PDF)</small>
+        </li>
+        <li>
+            <a href="/downloads/catch-bin-kill.pdf">Catch it, bin it, kill it poster</a>
+            <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (956KB PDF)</small>
+        </li>
+        <li>
+            <a href="/downloads/government-coronavirus-poster.pdf">Government coronavirus poster</a>
+            <small>Added <time datetime="2020-03-04T12:00:00+00:00">4 March 2020</time> (1.2MB PDF)</small>
+        </li>
     </ul>
 </details>
 
