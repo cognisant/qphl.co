@@ -26,7 +26,7 @@ featured-image-alt-text: Title card
     <h2>Important</h2>
     <ul>
         <li>
-            <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
+            <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 outbreak control guide</a>
             <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time> (480KB PDF)</small>
         </li>
         <li>
@@ -40,7 +40,7 @@ featured-image-alt-text: Title card
     <summary>QPHL policies and guidance</summary>
     <ul>
         <li>
-            <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 Outbreak Response</a>
+            <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 outbreak control guide</a>
             <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time> (480KB PDF)</small>
         </li>
         <li>
