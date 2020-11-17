@@ -12,16 +12,20 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/qphl-covid-19-testing-strategy.docx">QPHL COVID-19 testing strategy</a>
+            <small>Added <time datetime="2020-11-13T17:05:00+00:00">13 November 2020</time> (103KB DOCX)</small>
+        </li>
+        <li>
+            <a href="/downloads/emails/qphl-covid-19-rapid-testing-protocol">Email: QPHL COVID-19 rapid testing protocol</a>
+            <small>Added <time datetime="2020-11-13T17:05:00+00:00">13 November 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/covid-19-update-04-11/">Email: COVID-19 update 04/11</a>
             <small>Added <time datetime="2020-11-04T:16:48:00+00:00">4 November 2020</time></small>
         </li>
         <li>
             <a href="/downloads/advice-on-car-sharing.pdf">Advice on car sharing</a>
             <small>Added <time datetime="2020-10-27T11:11:00+00:00">27 October 2020</time> (273KB PDF)</small>
-        </li>
-        <li>
-            <a href="/downloads/quick-guide-for-employees.pdf">A quick guide for employees</a>
-            <small>Added <time datetime="2020-10-09T11:00:00+01:00">9 October 2020</time> (50KB PDF)</small>
         </li>
     </ul>
 </div>
@@ -65,6 +69,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL working on site</summary>
     <ul>
+        <li>
+            <a href="/downloads/qphl-covid-19-testing-strategy.docx">QPHL COVID-19 testing strategy</a>
+            <small>Added <time datetime="2020-11-13T17:05:00+00:00">13 November 2020</time> (103KB DOCX)</small>
+        </li>
         <li>
             <a href="/downloads/advice-on-car-sharing.pdf">Advice on car sharing</a>
             <small>Added <time datetime="2020-10-27T11:11:00+00:00">27 October 2020</time> (273KB PDF)</small>
@@ -117,6 +125,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/qphl-covid-19-rapid-testing-protocol">Email: QPHL COVID-19 rapid testing protocol</a>
+            <small>Added <time datetime="2020-11-13T17:05:00+00:00">13 November 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/covid-19-update-04-11/">Email: COVID-19 update 04/11</a>
             <small>Added <time datetime="2020-11-04T:16:48:00+00:00">4 November 2020</time></small>
