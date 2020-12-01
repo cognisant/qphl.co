@@ -21,7 +21,7 @@ featured-image-alt-text: Title card
         </li>
         <li>
             <a href="/downloads/emails/covid-19-update-04-11/">Email: COVID-19 update 04/11</a>
-            <small>Added <time datetime="2020-11-04T:16:48:00+00:00">4 November 2020</time></small>
+            <small>Added <time datetime="2020-11-04T16:48:00+00:00">4 November 2020</time></small>
         </li>
         <li>
             <a href="/downloads/advice-on-car-sharing.pdf">Advice on car sharing</a>
@@ -131,7 +131,7 @@ featured-image-alt-text: Title card
         </li>
         <li>
             <a href="/downloads/emails/covid-19-update-04-11/">Email: COVID-19 update 04/11</a>
-            <small>Added <time datetime="2020-11-04T:16:48:00+00:00">4 November 2020</time></small>
+            <small>Added <time datetime="2020-11-04T16:48:00+00:00">4 November 2020</time></small>
         </li>
         <li>
             <a href="/downloads/emails/covid-19-update-15-09/">Email: COVID-19 update 15/09</a>
