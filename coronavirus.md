@@ -239,7 +239,7 @@ featured-image-alt-text: Title card
             <a href="https://www.nhs.uk/oneyou/every-mind-matters/">Every mind matters: looking after your mental health</a>
         </li>
         <li>
-            <a href="https://111.nhs.uk/service/COVID-19/">About coronavirus (COVID-19) &amp; NHS 111 online assessment</a>
+            <a href="https://111.nhs.uk/service/COVID-19/">Check your symptoms</a>
         </li>
         <li>
             <a href="https://www.nhs.uk/conditions/coronavirus-covid-19/">NHS advice and common questions on COVID-19</a>
