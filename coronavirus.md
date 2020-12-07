@@ -253,9 +253,6 @@ featured-image-alt-text: Title card
         <li>
             <a href="https://coronavirus.data.gov.uk">Track coronavirus cases in the UK</a>
         </li>
-        <li>
-            <a href="https://www.gov.uk/guidance/coronavirus-covid-19-information-for-the-public">Latest number of coronavirus cases in the UK</a>
-        </li>
     </ul>
 </details>
 
