@@ -29,7 +29,6 @@ We acknowledge that this is a difficult time for all of us and we thought this w
 - **Virtual Disney World** [YouTube channel](https://www.youtube.com/channel/UCYyJUEtYv-ZW7BgjhP3UbTg) to experience all the rides from home.
 - [Maths with Carol Vorderman](https://www.themathsfactor.com/?fbclid=IwAR0VizBKuTGi_3bX9FdggE0p6nGFHkOKezfkCC5XqrAwNYYker56_qW_1Mo).
 - **Jamie Oliver** [recipes for kids](https://www.jamieoliver.com/features/category/get-kids-cooking/?fbclid=IwAR2FCvR_s4_d5lDY8aAC7CCZ5LB1Xz7bpmZ18ae_ENPeu0V2trfmP_Wtgc0).
-- [English with David Walliams](https://www.worldofdavidwalliams.com/elevenses/?fbclid=IwAR2Ph9gUAmRZ1TYzk6yJ0LRHxvoivLXM4uiC130JQI7-oduhdKVmnmN0Bp4).
 - [50 free revision resources for GCSE, A-Levels and SATs](http://www.eparenting.co.uk/education/50_free_revision_resources_for_gcse_a_level_11_plus_and_sats.php?fbclid=IwAR2t5H1vx9WJnYMmt8P22OvhYzWy_t3NXOC_K4XSdVcdowGdrvW-sa3lOmY).
 
 ## Entertainment
