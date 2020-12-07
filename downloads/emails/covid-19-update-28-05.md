@@ -22,7 +22,7 @@ Many will be aware that Bath ASU has been subject to an MHRA audit that conclude
 
 Lastly, an appeal. As we get more liberties and the NHS rolls out contact tracing both manually and eventually through the smartphone app, we must become even more alert to the risks associated with unnecessary contacts. Whilst infection rates in the South West are the lowest in the country; it won’t necessarily stay that way as the virus transmission rates increase following more contact. The basic disciplines still apply, if the park is crowded then come back later, we all need to wash hands frequently, etc.
 
-We have got this far by working together to keep “Our community” safe. As [our new social media video](https://youtu.be/yRSKBNemmNY) shows, we are indeed all in this together.
+We have got this far by working together to keep “Our community” safe. As [our new social media video](https://www.youtube.com/watch?v=yRSKBNemmNY) shows, we are indeed all in this together.
 
 There is still a long way to go, through following social distancing measures, we are looking out for each other even when apart. That’s not just the actions of a workplace; that’s us working together as a family.
 
