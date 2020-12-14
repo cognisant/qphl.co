@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/the-principles-of-vaccination/">The principles of vaccination</a>
+            <small>Added <time datetime="2020-12-14T12:30:00+00:00">14 December 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/pre-christmas-employee-and-bubble-testing/">Email: Pre-Christmas employee and bubble testing</a>
             <small>Added <time datetime="2020-12-02T15:43:00+00:00">2 December 2020</time></small>
         </li>
