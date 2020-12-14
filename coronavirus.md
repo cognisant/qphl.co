@@ -15,18 +15,20 @@ featured-image-alt-text: Title card
             <a href="/downloads/emails/pre-christmas-employee-and-bubble-testing/">Email: Pre-Christmas employee and bubble testing</a>
             <small>Added <time datetime="2020-12-02T15:43:00+00:00">2 December 2020</time></small>
         </li>
+    </ul>
+</div>
+
+<div class="notice notice--info">
+    <h2>Vaccine information</h2>
+    <ul>
         <li>
-            <a href="/downloads/qphl-covid-19-testing-strategy.docx">QPHL COVID-19 testing strategy</a>
-            <small>Added <time datetime="2020-11-13T17:05:00+00:00">13 November 2020</time> (103KB DOCX)</small>
-        </li>
-        <li>
-            <a href="/downloads/emails/qphl-covid-19-rapid-testing-protocol">Email: QPHL COVID-19 rapid testing protocol</a>
-            <small>Added <time datetime="2020-11-13T17:05:00+00:00">13 November 2020</time></small>
+            <a href="/downloads/the-principles-of-vaccination/">The principles of vaccination</a>
+            <small>Added <time datetime="2020-12-14T12:30:00+00:00">14 December 2020</time></small>
         </li>
     </ul>
 </div>
 
-<div class="notice notice--warning">
+<!-- <div class="notice notice--warning">
     <h2>Important</h2>
     <ul>
         <li>
@@ -38,7 +40,7 @@ featured-image-alt-text: Title card
             <small>Added <time datetime="2020-05-28T15:25:00+01:00">28 May 2020</time></small>
         </li>
     </ul>
-</div>
+</div> -->
 
 <details>
     <summary>QPHL policies and guidance</summary>
@@ -121,6 +123,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/the-principles-of-vaccination/">The principles of vaccination</a>
+            <small>Added <time datetime="2020-12-14T12:30:00+00:00">14 December 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/pre-christmas-employee-and-bubble-testing/">Email: Pre-Christmas employee and bubble testing</a>
             <small>Added <time datetime="2020-12-02T15:43:00+00:00">2 December 2020</time></small>
