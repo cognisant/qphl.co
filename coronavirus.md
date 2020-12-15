@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/covid-19-testing-between-and-after-christmas/">Email: COVID-19 testing between, and after, Christmas</a>
+            <small>Added <time datetime="2020-12-15T08:52:00+00:00">15 December 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/the-principles-of-vaccination/">The principles of vaccination</a>
             <small>Added <time datetime="2020-12-14T12:30:00+00:00">14 December 2020</time></small>
         </li>
@@ -71,6 +75,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL working on site</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/covid-19-testing-between-and-after-christmas/">Email: COVID-19 testing between, and after, Christmas</a>
+            <small>Added <time datetime="2020-12-15T08:52:00+00:00">15 December 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/qphl-covid-19-testing-strategy.docx">QPHL COVID-19 testing strategy</a>
             <small>Added <time datetime="2020-11-13T17:05:00+00:00">13 November 2020</time> (103KB DOCX)</small>
