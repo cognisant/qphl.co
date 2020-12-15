@@ -8,7 +8,7 @@ title: COVID-19 testing between, and after, Christmas
 
 Dear teams,
 
-As you are all aware, we have offered you and your families COVID-19 tests before you go into your bubbles this Christmas. This is to protect you, your families and of course our wider community.
+As you are all aware, [we have offered](/downloads/emails/pre-christmas-employee-and-bubble-testing/) you and your families COVID-19 tests before you go into your bubbles this Christmas. This is to protect you, your families and of course our wider community.
 
 To continue this, when you return to Corsham Science park 28th – 31st December AND from the 4th–8th January you will be tested before you’re allowed back onto site.
 
