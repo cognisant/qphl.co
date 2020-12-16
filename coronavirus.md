@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/what-is-herd-immunity-and-how-do-vaccines-help/">What is herd immunity, and how do vaccines help?</a>
+            <small>Added <time datetime="2020-12-16T10:00:00+00:00">16 December 2020</time></small>
+        </li>
+        <li>
             <a href="/downloads/how-does-the-pfizer-biontech-vaccine-work/">How does the Pfizer/BioNTech vaccine work?</a>
             <small>Added <time datetime="2020-12-15T10:00:00+00:00">15 December 2020</time></small>
         </li>
@@ -29,6 +33,10 @@ featured-image-alt-text: Title card
 <div class="notice notice--info">
     <h2>Vaccine information</h2>
     <ul>
+        <li>
+            <a href="/downloads/what-is-herd-immunity-and-how-do-vaccines-help/">What is herd immunity, and how do vaccines help?</a>
+            <small>Added <time datetime="2020-12-16T10:00:00+00:00">16 December 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/how-does-the-pfizer-biontech-vaccine-work/">How does the Pfizer/BioNTech vaccine work?</a>
             <small>Added <time datetime="2020-12-15T10:00:00+00:00">15 December 2020</time></small>
@@ -139,6 +147,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/what-is-herd-immunity-and-how-do-vaccines-help/">What is herd immunity, and how do vaccines help?</a>
+            <small>Added <time datetime="2020-12-16T10:00:00+00:00">16 December 2020</time></small>
+        </li>
         <li>
             <a href="/downloads/how-does-the-pfizer-biontech-vaccine-work/">How does the Pfizer/BioNTech vaccine work?</a>
             <small>Added <time datetime="2020-12-15T10:00:00+00:00">15 December 2020</time></small>
