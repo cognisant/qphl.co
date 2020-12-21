@@ -293,7 +293,7 @@ featured-image-alt-text: Title card
     <summary>GOV.UK stats</summary>
     <ul>
         <li>
-            <a href="https://coronavirus.data.gov.uk">Track coronavirus cases in the UK</a>
+            <a href="https://coronavirus.data.gov.uk">The official UK Government website for data and insights on Coronavirus (COVID-19)</a>
         </li>
     </ul>
 </details>
