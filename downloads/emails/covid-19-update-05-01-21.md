@@ -6,6 +6,13 @@ title: COVID-19 update 05/01/21
 
 <small>13:59 on 5 January 2021</small>
 
+<figure>
+    <a href="https://web.microsoftstream.com/video/38f6453b-7bac-4fc4-ac8d-8518bb808a5e">
+        <img src="/downloads/qphl-covid-19-update-05-01-21-vlog-cover.png" alt="QPHL COVID-19 update 05/01/21 vlog">
+    </a>
+    <figcaption>You need a QPHL login to watch this video.</figcaption>
+</figure>
+
 Dear team,
 
 It somehow felt inevitable that Lockdown 3 the sequel was due for imminent release. Like all sequels the plot follows a familiar pattern. Increasing infection rates, health service under strain, personal tragedy, heroes (scientist and healthcare workers) and villains (5G, Trump, deniers) thrown in too. We also have plot twists. Just as vaccines are within reach, new virus strains emerge.
