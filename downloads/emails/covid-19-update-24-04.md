@@ -1,7 +1,7 @@
 ---
 layout: email
 permalink: /downloads/emails/covid-19-update-24-04/
-title: COVID-19 update 24/04
+title: COVID-19 update 24/04/20
 ---
 
 <small>07:07 on 25 April 2020</small>

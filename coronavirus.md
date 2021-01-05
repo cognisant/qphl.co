@@ -168,11 +168,11 @@ featured-image-alt-text: Title card
             <small>Added <time datetime="2020-11-13T17:05:00+00:00">13 November 2020</time></small>
         </li>
         <li>
-            <a href="/downloads/emails/covid-19-update-04-11/">Email: COVID-19 update 04/11</a>
+            <a href="/downloads/emails/covid-19-update-04-11/">Email: COVID-19 update 04/11/20</a>
             <small>Added <time datetime="2020-11-04T16:48:00+00:00">4 November 2020</time></small>
         </li>
         <li>
-            <a href="/downloads/emails/covid-19-update-15-09/">Email: COVID-19 update 15/09</a>
+            <a href="/downloads/emails/covid-19-update-15-09/">Email: COVID-19 update 15/09/20</a>
             <small>Added <time datetime="2020-09-15T08:36:00+01:00">15 September 2020</time></small>
         </li>
         <li>
@@ -184,15 +184,15 @@ featured-image-alt-text: Title card
             <small><span class="label label--warning">Action required</span> Added <time datetime="2020-08-10T12:33:00+01:00">10 August 2020</time></small>
         </li>
         <li>
-            <a href="/downloads/emails/covid-19-update-28-05/">Email: COVID-19 update 28/05</a>
+            <a href="/downloads/emails/covid-19-update-28-05/">Email: COVID-19 update 28/05/20</a>
             <small>Added <time datetime="2020-05-28T15:36:00+01:00">28 May 2020</time></small>
         </li>
         <li>
-            <a href="/downloads/emails/covid-19-update-12-05/">Email: COVID-19 update 12/05</a>
+            <a href="/downloads/emails/covid-19-update-12-05/">Email: COVID-19 update 12/05/20</a>
             <small>Added <time datetime="2020-05-12T13:35:00">12 May 2020</time></small>
         </li>
         <li>
-            <a href="/downloads/emails/covid-19-update-07-05/">Email: COVID-19 update 07/05</a>
+            <a href="/downloads/emails/covid-19-update-07-05/">Email: COVID-19 update 07/05/20</a>
             <small>Added <time datetime="2020-05-07T17:00:00">7 May 2020</time></small>
         </li>
         <li>
@@ -200,14 +200,14 @@ featured-image-alt-text: Title card
             <small><em class="label label--warning">Action required</em> Added <time datetime="2020-05-07T11:41:00">7 May 2020</time></small>
         </li>
         <li>
-            <a href="/downloads/emails/covid-19-update-24-04/">Email: COVID-19 update 24/04</a>
+            <a href="/downloads/emails/covid-19-update-24-04/">Email: COVID-19 update 24/04/20</a>
             <small>Added <time datetime="2020-04-25T07:07:00">25 April 2020</time></small>
         </li>
         <li>
             <a href="/downloads/emails/covid-19-q-a-vlog/">Email: COVID-19 Q&amp;A vlog</a>
             <small>Added <time datetime="2020-04-03T09:54:00+01:00">3 April 2020</time></small></li>
         <li>
-            <a href="/downloads/emails/covid-19-update-01-04/">Email: COVID-19 update 01/04</a>
+            <a href="/downloads/emails/covid-19-update-01-04/">Email: COVID-19 update 01/04/20</a>
             <small>Added <time datetime="2020-04-01T12:38:00+01:00">1 April 2020</time></small>
         </li>
         <li>
