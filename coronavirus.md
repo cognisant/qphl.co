@@ -12,12 +12,8 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/blood-oxygen-monitoring-equiment-for-employees/">Blood oxygen monitoring equipment for employees</a>
-            <small><time datetime="2021-01-27T13:32:00+00:00">27 January 2021</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/covid-19-surveillance-testing/">COVID-19 surveillance testing</a>
-            <small>Added <time datetime="2021-01-19T18:32:00+00:00">19 January 2021</time></small>
+            <a href="/downloads/emails/face-masks-for-secondary-school-students/">Face masks for secondary school students</a>
+            <small><time datetime="2021-03-04T10:52:00+00:00">4 March 2021</time></small>
         </li>
     </ul>
 </div>
@@ -147,6 +143,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/face-masks-for-secondary-school-students/">Face masks for secondary school students</a>
+            <small><time datetime="2021-03-04T10:52:00+00:00">4 March 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/blood-oxygen-monitoring-equiment-for-employees/">Blood oxygen monitoring equipment for employees</a>
             <small><time datetime="2021-01-27T13:32:00+00:00">27 January 2021</time></small>
