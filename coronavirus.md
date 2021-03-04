@@ -13,7 +13,7 @@ featured-image-alt-text: Title card
     <ul>
         <li>
             <a href="/downloads/emails/face-masks-for-secondary-school-students/">Face masks for secondary school students</a>
-            <small><time datetime="2021-03-04T10:52:00+00:00">4 March 2021</time></small>
+            <small>Added <time datetime="2021-03-04T10:52:00+00:00">4 March 2021</time></small>
         </li>
     </ul>
 </div>
@@ -119,7 +119,7 @@ featured-image-alt-text: Title card
     <ul>
         <li>
             <a href="/downloads/emails/covid-19-secure-workplace-update/">Email: COVID-19 secure workplace update</a>
-            <small><em class="label label--warning">Action required</em> Added <time datetime="2020-06-18T09:05:00+01:00">18 June 2020</time></small>
+            <small>Added <em class="label label--warning">Action required</em> Added <time datetime="2020-06-18T09:05:00+01:00">18 June 2020</time></small>
         </li>
         <li>
             <a href="/downloads/covid-secure-workplace-risk-assessment-v8.pdf">COVID-19 secure workplace risk assessment</a>
@@ -145,7 +145,7 @@ featured-image-alt-text: Title card
     <ul>
         <li>
             <a href="/downloads/emails/face-masks-for-secondary-school-students/">Face masks for secondary school students</a>
-            <small><time datetime="2021-03-04T10:52:00+00:00">4 March 2021</time></small>
+            <small>Added <time datetime="2021-03-04T10:52:00+00:00">4 March 2021</time></small>
         </li>
         <li>
             <a href="/downloads/emails/blood-oxygen-monitoring-equiment-for-employees/">Blood oxygen monitoring equipment for employees</a>
