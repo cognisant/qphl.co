@@ -12,8 +12,8 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/face-masks-for-secondary-school-students/">Face masks for secondary school students</a>
-            <small>Added <time datetime="2021-03-04T10:52:00+00:00">4 March 2021</time></small>
+            <a href="qphl-covid-19-vaccine-protocol-april-2021.pdf">QPHL COVID-19 vaccine protocol April 2021</a>
+            <small>Added <time datetime="2021-04-21T11:07:00+01:00">21 April 2021</time></small>
         </li>
     </ul>
 </div>
@@ -57,6 +57,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL policies and guidance</summary>
     <ul>
+        <li>
+            <a href="qphl-covid-19-vaccine-protocol-april-2021.pdf">QPHL COVID-19 vaccine protocol April 2021</a>
+            <small>Added <time datetime="2021-04-21T11:07:00+01:00">21 April 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/qphl-covid-19-outbreak-response.pdf">QPHL COVID-19 outbreak control guide</a>
             <small>Added <time datetime="2020-09-14T18:00:00+01:00">14 September 2020</time> (480KB PDF)</small>
