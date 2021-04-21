@@ -12,7 +12,7 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="qphl-covid-19-vaccine-protocol-april-2021.pdf">QPHL COVID-19 vaccine protocol April 2021</a>
+            <a href="/downloads/qphl-covid-19-vaccine-protocol-april-2021.pdf">QPHL COVID-19 vaccine protocol April 2021</a>
             <small>Added <time datetime="2021-04-21T11:07:00+01:00">21 April 2021</time></small>
         </li>
     </ul>
@@ -58,7 +58,7 @@ featured-image-alt-text: Title card
     <summary>QPHL policies and guidance</summary>
     <ul>
         <li>
-            <a href="qphl-covid-19-vaccine-protocol-april-2021.pdf">QPHL COVID-19 vaccine protocol April 2021</a>
+            <a href="/downloads/qphl-covid-19-vaccine-protocol-april-2021.pdf">QPHL COVID-19 vaccine protocol April 2021</a>
             <small>Added <time datetime="2021-04-21T11:07:00+01:00">21 April 2021</time></small>
         </li>
         <li>
