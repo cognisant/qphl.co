@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-44s/">COVID-19 vaccines now available for the over-44s</a>
+            <small>Added <time datetime="2021-04-26T08:32:00+01:00">26 April 2021</time></small>
+        </li>
+        <li>
             <a href="/downloads/qphl-covid-19-vaccine-protocol-april-2021.pdf">QPHL COVID-19 vaccine protocol April 2021</a>
             <small>Added <time datetime="2021-04-21T11:07:00+01:00">21 April 2021</time></small>
         </li>
@@ -147,6 +151,14 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-44s/">COVID-19 vaccines now available for the over-44s</a>
+            <small>Added <time datetime="2021-04-26T08:32:00+01:00">26 April 2021</time></small>
+        </li>
+        <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-45s/">COVID-19 vaccines now available for the over-45s</a>
+            <small>Added <time datetime="2021-04-13T12:01:00+00:00">13 April 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/face-masks-for-secondary-school-students/">Face masks for secondary school students</a>
             <small>Added <time datetime="2021-03-04T10:52:00+00:00">4 March 2021</time></small>
