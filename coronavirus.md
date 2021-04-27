@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-42s/">COVID-19 vaccines now available for the over-42s</a>
+            <small>Added <time datetime="2021-04-27T09:50:00+01:00">27 April 2021</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-44s/">COVID-19 vaccines now available for the over-44s</a>
             <small>Added <time datetime="2021-04-26T08:32:00+01:00">26 April 2021</time></small>
         </li>
@@ -151,6 +155,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-42s/">COVID-19 vaccines now available for the over-42s</a>
+            <small>Added <time datetime="2021-04-27T09:50:00+01:00">27 April 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-44s/">COVID-19 vaccines now available for the over-44s</a>
             <small>Added <time datetime="2021-04-26T08:32:00+01:00">26 April 2021</time></small>
