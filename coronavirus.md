@@ -12,16 +12,12 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/review-of-covid-19-measures-04-05-21/">Review of COVID-19 measures 04/05/21</a>
+            <small>Added <time datetime="2021-05-04T09:40:00+01:00">4 May 2021</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-42s/">COVID-19 vaccines now available for the over-42s</a>
             <small>Added <time datetime="2021-04-27T09:50:00+01:00">27 April 2021</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-44s/">COVID-19 vaccines now available for the over-44s</a>
-            <small>Added <time datetime="2021-04-26T08:32:00+01:00">26 April 2021</time></small>
-        </li>
-        <li>
-            <a href="/downloads/qphl-covid-19-vaccine-protocol-april-2021.pdf">QPHL COVID-19 vaccine protocol April 2021</a>
-            <small>Added <time datetime="2021-04-21T11:07:00+01:00">21 April 2021</time></small>
         </li>
     </ul>
 </div>
@@ -91,6 +87,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL working on site</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/review-of-covid-19-measures-04-05-21/">Review of COVID-19 measures 04/05/21</a>
+            <small>Added <time datetime="2021-05-04T09:40:00+01:00">4 May 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/covid-19-surveillance-testing/">COVID-19 surveillance testing</a>
             <small>Added <time datetime="2021-01-19T18:32:00+00:00">19 January 2021</time></small>
