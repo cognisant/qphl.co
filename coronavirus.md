@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/onsite-covid-19-vaccination-centre/">Onsite COVID-19 vaccination centre and changes to car parking</a>
+            <small>Added <time datetime="2021-06-02T16:48:00+01:00">2 June 2021</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/we-should-all-get-vaccinated/">We should all get vaccinated</a>
             <small>Added <time datetime="2021-06-02T15:49:00+01:00">2 June 2021</time></small>
         </li>
@@ -163,6 +167,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/onsite-covid-19-vaccination-centre/">Onsite COVID-19 vaccination centre and changes to car parking</a>
+            <small>Added <time datetime="2021-06-02T16:48:00+01:00">2 June 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/we-should-all-get-vaccinated/">We should all get vaccinated</a>
             <small>Added <time datetime="2021-06-02T15:49:00+01:00">2 June 2021</time></small>
