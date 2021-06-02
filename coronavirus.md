@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/we-should-all-get-vaccinated/">We should all get vaccinated</a>
+            <small>Added <time datetime="2021-06-02T15:49:00+01:00">2 June 2021</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/covid-19-surveillance-testing-change-on-location/">COVID-19 surveillance testing change in location</a>
             <small>Added <time datetime="2021-06-02T08:41:00+01:00">2 June 2021</time></small>
         </li>
@@ -159,6 +163,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/we-should-all-get-vaccinated/">We should all get vaccinated</a>
+            <small>Added <time datetime="2021-06-02T15:49:00+01:00">2 June 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-30s/">COVID-19 vaccines now available for the over-30s</a>
             <small>Added <time datetime="2021-05-27T07:35:00+01:00">27 May 2021</time></small>
