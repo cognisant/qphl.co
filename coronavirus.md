@@ -12,16 +12,12 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-38s/">COVID-19 vaccines now available for the over-38s</a>
-            <small>Added <time datetime="2021-05-13T10:10:00+01:00">13 April 2021</time></small>
+            <a href="/downloads/emails/covid-19-surveillance-testing-change-on-location/">COVID-19 surveillance testing change in location</a>
+            <small>Added <time datetime="2021-06-02T08:41:00+01:00">2 June 2021</time></small>
         </li>
         <li>
-            <a href="/downloads/emails/covid-19-antibody-testing/">COVID-19 antibody testing</a>
-            <small><em class="label label--warning">Action required</em> Added <time datetime="2021-05-05T16:45:00+01:00">5 May 2021</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/review-of-covid-19-measures-04-05-21/">Review of COVID-19 measures 04/05/21</a>
-            <small>Added <time datetime="2021-05-04T09:40:00+01:00">4 May 2021</time></small>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-30s/">COVID-19 vaccines now available for the over-30s</a>
+            <small>Added <time datetime="2021-05-27T07:35:00+01:00">27 May 2021</time></small>
         </li>
     </ul>
 </div>
@@ -92,6 +88,10 @@ featured-image-alt-text: Title card
     <summary>QPHL working on site</summary>
     <ul>
         <li>
+            <a href="/downloads/emails/covid-19-surveillance-testing-change-on-location/">COVID-19 surveillance testing change in location</a>
+            <small>Added <time datetime="2021-06-02T08:41:00+01:00">2 June 2021</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/review-of-covid-19-measures-04-05-21/">Review of COVID-19 measures 04/05/21</a>
             <small>Added <time datetime="2021-05-04T09:40:00+01:00">4 May 2021</time></small>
         </li>
@@ -159,6 +159,14 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-30s/">COVID-19 vaccines now available for the over-30s</a>
+            <small>Added <time datetime="2021-05-27T07:35:00+01:00">27 May 2021</time></small>
+        </li>
+        <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-32s/">COVID-19 vaccines now available for the over-32s</a>
+            <small>Added <time datetime="2021-05-25T16:01:00+01:00">25 May 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-38s/">COVID-19 vaccines now available for the over-38s</a>
             <small>Added <time datetime="2021-05-13T10:10:00+01:00">13 April 2021</time></small>
