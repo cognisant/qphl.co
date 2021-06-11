@@ -12,6 +12,10 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-25s/">COVID-19 vaccines now available for the over-25s</a>
+            <small>Added <time datetime="2021-06-11T11:13:00+01:00">11 June 2021</time></small>
+        </li>
+        <li>
             <a href="/downloads/emails/onsite-covid-19-vaccination-centre/">Onsite COVID-19 vaccination centre and changes to car parking</a>
             <small>Added <time datetime="2021-06-02T16:48:00+01:00">2 June 2021</time></small>
         </li>
@@ -22,10 +26,6 @@ featured-image-alt-text: Title card
         <li>
             <a href="/downloads/emails/covid-19-surveillance-testing-change-on-location/">COVID-19 surveillance testing change in location</a>
             <small>Added <time datetime="2021-06-02T08:41:00+01:00">2 June 2021</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-30s/">COVID-19 vaccines now available for the over-30s</a>
-            <small>Added <time datetime="2021-05-27T07:35:00+01:00">27 May 2021</time></small>
         </li>
     </ul>
 </div>
@@ -167,6 +167,10 @@ featured-image-alt-text: Title card
 <details>
     <summary>QPHL communications</summary>
     <ul>
+        <li>
+            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-25s/">COVID-19 vaccines now available for the over-25s</a>
+            <small>Added <time datetime="2021-06-11T11:13:00+01:00">11 June 2021</time></small>
+        </li>
         <li>
             <a href="/downloads/emails/onsite-covid-19-vaccination-centre/">Onsite COVID-19 vaccination centre and changes to car parking</a>
             <small>Added <time datetime="2021-06-02T16:48:00+01:00">2 June 2021</time></small>
