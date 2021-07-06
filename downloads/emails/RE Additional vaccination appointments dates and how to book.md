@@ -1,6 +1,6 @@
 ---
 layout: email
-permalink: /downloads/emails/RE Additional vaccination appointments dates and how to book.md
+permalink: /downloads/emails/RE-Additional-vaccination-appointments-dates-and-how-to-book/
 title: "RE: Additional vaccination appointments :dates and how to book"
 ---
 

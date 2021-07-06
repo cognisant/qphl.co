@@ -1,6 +1,6 @@
 ---
 layout: email
-permalink: /downloads/emails/Covid-19 Vaccination Appointments 
+permalink: /downloads/emails/Covid-19-Vaccination-Appointments/ 
 title: "Covid-19 Vaccination Appointments"
 ---
 

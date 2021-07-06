@@ -12,15 +12,15 @@ featured-image-alt-text: Title card
     <h2>Latest updates</h2>
     <ul>
         <li>
-            <a href="/downloads/emails/Covid-19 Vaccination Appointments">Covid-19 Vaccination Appointments</a>
+            <a href="/downloads/emails/Covid-19-Vaccination-Appointments/">Covid-19 Vaccination Appointments</a>
             <small>Added <time datetime="2021-06-27T11:39:00+01:00">27 June 2021</time></small>        
         </li>
         <li>
-            <a href="/downloads/emails/RE Additional vaccination appointments dates and how to book.md">RE: Additional vaccination appointments :dates and how to book</a>
+            <a href="/downloads/emails/RE-Additional-vaccination-appointments-dates-and-how-to-book/">RE: Additional vaccination appointments :dates and how to book</a>
             <small>Added <time datetime="2021-06-22T09:21:00+01:00">22 June 2021</time></small>        
         </li>
         <li>
-            <a href="/downloads/emails/Additional vaccination appointments and how to book.md">Additional vaccination appointments: dates and how to book</a>
+            <a href="/downloads/emails/Additional-vaccination-appointments-and-how-to-book/">Additional vaccination appointments: dates and how to book</a>
             <small>Added <time datetime="2021-06-21T15:17:00+01:00">21 June 2021</time></small>        
         </li>
         <li>
@@ -180,8 +180,16 @@ featured-image-alt-text: Title card
     <summary>QPHL communications</summary>
     <ul>
         <li>
-             <a href="/downloads/emails/Additional vaccination appointments and how to book.md">Additional vaccination appointments: dates and how to book</a>
-            <small>Added <time datetime="2021-06-21T15:17:00+01:00">21 June 2021</time></small>
+            <a href="/downloads/emails/Covid-19-Vaccination-Appointments/">Covid-19 Vaccination Appointments</a>
+            <small>Added <time datetime="2021-06-27T11:39:00+01:00">27 June 2021</time></small>        
+        </li>
+        <li>
+            <a href="/downloads/emails/RE-Additional-vaccination-appointments-dates-and-how-to-book/">RE: Additional vaccination appointments :dates and how to book</a>
+            <small>Added <time datetime="2021-06-22T09:21:00+01:00">22 June 2021</time></small>        
+        </li>
+        <li>
+            <a href="/downloads/emails/Additional-vaccination-appointments-and-how-to-book/">Additional vaccination appointments: dates and how to book</a>
+            <small>Added <time datetime="2021-06-21T15:17:00+01:00">21 June 2021</time></small>        
         </li>
         <li>
             <a href="/downloads/emails/changes-to-our-daily-covid-19-sms-updates/">Changes to our daily COVID-19 SMS updates</a>
