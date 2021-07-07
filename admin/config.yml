@@ -38,12 +38,12 @@ collections:
         "QPHL working from home",
         "QPHL working on site"
       ]
-    - label: "Title",
-      name: "title",
+    - label: "Title"
+      name: "title"
       widget: "string"
-    - label: "publish date",
-      name: "date",
+    - label: "publish date"
+      name: "date"
       widget: "datetime"
-    - label: "Body",
-      name: "body",
+    - label: "Body"
+      name: "body"
       widget: "markdown"
