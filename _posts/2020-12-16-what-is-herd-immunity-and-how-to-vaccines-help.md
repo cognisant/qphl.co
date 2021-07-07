@@ -1,10 +1,8 @@
 ---
 layout: email
-permalink: /downloads/what-is-herd-immunity-and-how-do-vaccines-help/
 title: What is herd immunity, and how do vaccines help?
+category: Vaccine information
 ---
-
-<small>10:00 on 16 December 2020</small>
 
 We’ve probably all heard of “herd immunity,” but what exactly does it mean? This video explains how and why getting vaccinated helps to save lives—even if you yourself are fit, healthy, and not too concerned about COVID-19!
 

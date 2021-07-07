@@ -1,10 +1,8 @@
 ---
 layout: email
-permalink: /downloads/how-does-the-pfizer-biontech-vaccine-work/
 title: How does the Pfizer/BioNTech vaccine work?
+category: Vaccine information
 ---
-
-<small>10:00 on 15 December 2020</small>
 
 The new vaccines from Pfizer/BioNTech, Moderna and Oxford/AstraZeneca are gene-based vaccines, which means instead of using part of a virus or an inactivated virus they use part of the instructions to make certain virus proteins.
 

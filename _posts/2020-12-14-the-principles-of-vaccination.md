@@ -1,10 +1,8 @@
 ---
 layout: email
-permalink: /downloads/the-principles-of-vaccination/
 title: The principles of vaccination
+category: Vaccine information
 ---
-
-<small>12:30 on 14 December 2020</small>
 
 How do our bodies fight infection? And how do vaccines help?
 
