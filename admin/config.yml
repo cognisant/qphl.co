@@ -22,6 +22,7 @@ collections:
       options:
         - { label: "Email", value: "email" }
         - { label: "Link (to website or file)", value: "link-post" }
+      default: { label: "Email", value: "email" }
     - label: "Link"
       name: "link"
       widget: "string"
@@ -38,6 +39,7 @@ collections:
         "QPHL working from home",
         "QPHL working on site"
       ]
+      default: "QPHL communications"
     - label: "Title"
       name: "title"
       widget: "string"
