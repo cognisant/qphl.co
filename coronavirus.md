@@ -23,18 +23,6 @@ featured-image-alt-text: Title card
             <a href="/downloads/emails/additional-vaccination-appointments-and-how-to-book/">Additional vaccination appointments: dates and how to book</a>
             <small>Added <time datetime="2021-06-21T15:17:00+01:00">21 June 2021</time></small>
         </li>
-        <li>
-            <a href="/downloads/emails/changes-to-our-daily-covid-19-sms-updates/">Changes to our daily COVID-19 SMS updates</a>
-            <small>Added <time datetime="2021-06-18T15:51:00+01:00">18 June 2021</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/covid-19-vaccines-now-available-for-the-over-21s/">COVID-19 vaccines now available for the over-21s</a>
-            <small>Added <time datetime="2021-06-17T08:52:00+01:00">17 June 2021</time></small>
-        </li>
-        <li>
-            <a href="/downloads/emails/important-update-on-internal-covid-19-measures/">Important update on internal COVID-19 measures</a>
-            <small>Added <time datetime="2021-06-16T16:40:00+01:00">16 June 2021</time></small>
-        </li>
     </ul>
 </div>
 
