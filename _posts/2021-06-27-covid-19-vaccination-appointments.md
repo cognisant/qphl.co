@@ -1,10 +1,8 @@
 ---
 layout: email
-title: "COVID-19 Vaccination Appointments"
-category: qphl-communications
+title: "COVID-19 vaccination appointments"
+category: QPHL communications
 ---
-
-<small> 11:39 on 27 June 2021</small>
 
 Hi all,
 
@@ -13,6 +11,7 @@ The next batch of on-site COVID-19 vaccination appointments (for both 1st and 2n
 The appointments will be for the coming week (1st, 2nd and 3rd July).
 
 Please use the link below to book your appointment from 12 midday onwards:
+
 [https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/book-coronavirus-vaccination/](https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/book-coronavirus-vaccination/)
 
 We are also operating a ‘standby list’ to prevent wasting any vaccine at the end of each session (usually between 6.30-8pm weekdays or 4-6pm Saturdays).

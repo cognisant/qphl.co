@@ -15,11 +15,35 @@ collections:
     label: 'Updates'
     folder: '_posts/'
     create: true
-    slug: "downloads/emails/{{ slug }}"
     fields:
-      - {label: "Layout", name: "layout", widget: "select", options: ["email", "link-post"]}
-      - {label: "Link", name: "link", widget: "string"}
-      - {label: "Category", name: "category", widget: "select", options: ["qphl-communications", "qphl-working-from-home", "qphl-policies-and-guidance", "qphl-working-on-site", "qphl-childcare-arrangements", "nhs-and-ncha-advice-and-support", "govuk-stats", "posters"]}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Body", name: "body", widget: "markdown"}
+    - label: "Layout"
+      name: "layout"
+      widget: "select"
+      options:
+        - { label: "Email", value: "email" }
+        - { label: "Link (to website or file)", value: "link-post" }
+    - label: "Link"
+      name: "link"
+      widget: "string"
+    - label: "Category"
+      name: "category"
+      widget: "select"
+      options: [
+        "GOV.UK stats",
+        "NHS and NCHA advice and support",
+        "Posters",
+        "QPHL childcare arrangements",
+        "QPHL communications",
+        "QPHL policies and guidance",
+        "QPHL working from home",
+        "QPHL working on site"
+      ]
+    - label: "Title",
+      name: "title",
+      widget: "string"
+    - label: "publish date",
+      name: "date",
+      widget: "datetime"
+    - label: "Body",
+      name: "body",
+      widget: "markdown"
