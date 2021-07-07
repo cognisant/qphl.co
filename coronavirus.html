@@ -36,7 +36,7 @@ featured-image-alt-text: Title card
 {% assign sortedcategories = site.categories | sort %}
 {% for category in sortedcategories %}
     <details>
-        <summary>{{ category[0] }} — {{ category[1].size }} items</summary>
+        <summary>{{ category[0] }}</summary>
         <ul>
             {% for post in site.posts %}
                 {% if post.category == category[0] %}
