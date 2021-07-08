@@ -33,28 +33,51 @@ featured-image-alt-text: Title card
     </ul>
 </div>
 
+<div class="notice notice--info">
+    <h2>Vaccine information</h2>
+    <ul>
+        {% for post in site.posts %}
+            {% if post.category == "Vaccine information" %}
+                {% if post.link %}
+                    <li>
+                        <a href="{{ post.link }}">{{ post.title }}</a>
+                        <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                    </li>
+                {% else %}
+                    <li>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                        <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                    </li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
 {% assign sortedcategories = site.categories | sort %}
 {% for category in sortedcategories %}
-    <details>
-        <summary>{{ category[0] }}</summary>
-        <ul>
-            {% for post in site.posts %}
-                {% if post.category == category[0] %}
-                    {% if post.link %}
-                        <li>
-                            <a href="{{ post.link }}">{{ post.title }}</a>
-                            <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
-                        </li>
-                    {% else %}
-                        <li>
-                            <a href="{{ post.url }}">{{ post.title }}</a>
-                            <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
-                        </li>
+    {% if category[0] != "Vaccine information" %}
+        <details>
+            <summary>{{ category[0] }}</summary>
+            <ul>
+                {% for post in site.posts %}
+                    {% if post.category == category[0] %}
+                        {% if post.link %}
+                            <li>
+                                <a href="{{ post.link }}">{{ post.title }}</a>
+                                <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                            </li>
+                        {% else %}
+                            <li>
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                                <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                            </li>
+                        {% endif %}
                     {% endif %}
-                {% endif %}
-            {% endfor %}
-        </ul>
-    </details>
+                {% endfor %}
+            </ul>
+        </details>
+    {% endif %}
 {% endfor %}
 
 <details>
