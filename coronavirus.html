@@ -1,0 +1,97 @@
+---
+layout: default
+permalink: /coronavirus/
+title: QPHL Coronavirus (COVID-19) information for employees
+app-title: COVID-19
+description: Company communications, policies, resources and useful links about the coronavirus (COVID-19) pandemic.
+featured-image: /images/coronavirus-og.png
+featured-image-alt-text: Title card
+---
+
+{% assign fourteendaysago = site.time | date: '%s' | minus: 1209600 %}
+
+<div class="notice notice--success">
+    <h2>Latest updates</h2>
+    <!-- we used assign instead of capture, since capture can only store string -->
+    <ul>
+        {% for post in site.posts %}
+            {% assign timediff = post.date | date: '%s' | minus: fourteendaysago %}
+            {% if timediff > 0 %}
+                {% if post.link %}
+                    <li>
+                        <a href="{{ post.link }}">{{ post.title }}</a>
+                        <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                    </li>
+                {% else %}
+                    <li>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                        <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                    </li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
+<div class="notice notice--info">
+    <h2>Vaccine information</h2>
+    <ul>
+        {% for post in site.posts %}
+            {% if post.category == "Vaccine information" %}
+                {% if post.link %}
+                    <li>
+                        <a href="{{ post.link }}">{{ post.title }}</a>
+                        <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                    </li>
+                {% else %}
+                    <li>
+                        <a href="{{ post.url }}">{{ post.title }}</a>
+                        <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                    </li>
+                {% endif %}
+            {% endif %}
+        {% endfor %}
+    </ul>
+</div>
+
+{% assign sortedcategories = site.categories | sort %}
+{% for category in sortedcategories %}
+    {% if category[0] != "Vaccine information" %}
+        <details>
+            <summary>{{ category[0] }} <span class="post-count">{{ category[1].size }}</span></summary>
+            <ul>
+                {% for post in site.posts %}
+                    {% if post.category == category[0] %}
+                        {% if post.link %}
+                            <li>
+                                <a href="{{ post.link }}">{{ post.title }}</a>
+                                <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                            </li>
+                        {% else %}
+                            <li>
+                                <a href="{{ post.url }}">{{ post.title }}</a>
+                                <small>Added <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string }}</time></small>
+                            </li>
+                        {% endif %}
+                    {% endif %}
+                {% endfor %}
+            </ul>
+        </details>
+    {% endif %}
+{% endfor %}
+
+<details>
+    <summary>How to save this page on your phone</summary>
+    <p>For Android users:</p>
+    <ol>
+        <li>Tap the menu button and then tap “Add to home screen.”</li>
+        <li>You’ll then be able to enter a name for the shortcut and then Chrome will add it to your home screen.</li>
+    </ol>
+    <p>For iPhone users:</p>
+    <ol>
+        <li>Tap the Share button at the bottom of the page. It looks like a square with an arrow pointing out of the top.</li>
+        <li>In the list of options that appears, scroll down until you see Add to Home Screen. Tap this.</li>
+        <li>On the next screen, choose a name for the website shortcut on your home screen. You’ll see the link so you can confirm it, as well as the site’s favicon that becomes its “app” icon. Click Add when you’re done.</li>
+        <li>Now just tap the new app on your home screen, and it will open the website in its own navigation window, independent of what you have open in Safari.</li>
+    </ol>
+</details>

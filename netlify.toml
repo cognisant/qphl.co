@@ -2,3 +2,7 @@
   from = "/*"
   to = "/page-not-found/"
   status = 404
+
+[[redirects]]
+  from = "/downloads/emails/*"
+  to = "/coronavirus/updates/:splat"

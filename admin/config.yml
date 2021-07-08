@@ -1,0 +1,53 @@
+# config.yml
+
+backend:
+  name: github
+  repo: qphl/qphl-website
+  branch: netlify-cms
+
+publish_mode: editorial_workflow
+
+media_folder: "images"
+
+
+collections:
+  - name: 'updates'
+    label: 'Updates'
+    folder: '_posts/'
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields:
+    - label: "Layout"
+      name: "layout"
+      widget: "select"
+      options:
+        - { label: "Email", value: "email" }
+        - { label: "Link (to website or file)", value: "link-post" }
+      default: { label: "Email", value: "email" }
+    - label: "Link"
+      name: "link"
+      widget: "string"
+      required: false
+    - label: "Category"
+      name: "category"
+      widget: "select"
+      options: [
+        "GOV.UK stats",
+        "NHS and NCHA advice and support",
+        "Posters",
+        "QPHL childcare arrangements",
+        "QPHL communications",
+        "QPHL policies and guidance",
+        "QPHL working from home",
+        "QPHL working on site"
+      ]
+      default: "QPHL communications"
+    - label: "Title"
+      name: "title"
+      widget: "string"
+    - label: "publish date"
+      name: "date"
+      widget: "datetime"
+    - label: "Body"
+      name: "body"
+      widget: "markdown"

@@ -5,6 +5,6 @@
     <p><small><date datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_long_string }}</small></p>
 </header>
 <main role="main">
-    {{ content }}
+    <a href="{{ post.link }}">{{ post.title }}</a>
 </main>
 {% include footer.html %}
