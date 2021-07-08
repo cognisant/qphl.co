@@ -58,7 +58,7 @@ featured-image-alt-text: Title card
 {% for category in sortedcategories %}
     {% if category[0] != "Vaccine information" %}
         <details>
-            <summary>{{ category[0] }}</summary>
+            <summary>{{ category[0] }} <span class="post-count">{{ category[1].size }}</span></summary>
             <ul>
                 {% for post in site.posts %}
                     {% if post.category == category[0] %}
