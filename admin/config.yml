@@ -33,7 +33,7 @@ collections:
       widget: "select"
       options: [
         "GOV.UK stats",
-        "NHS and NCHA advice and support",
+        "NHS and NCHA advice",
         "Posters",
         "QPHL childcare arrangements",
         "QPHL communications",
